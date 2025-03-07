@@ -1,0 +1,1621 @@
+No,Penalty Calculation Strategy,Penalty Selection Strategy,Penalty TieBreaker Strategy,Cell Selection Strategy,Cell TieBreaker Strategy,Akurasi (Normal)
+1,Two Min,Max Penalty,Min Total Cost,MinCost,Min Top-Bottom Sum,65
+2,Two Min,Max Penalty,All Penalties,MinCost,Min Top-Bottom Sum,65
+3,Two Min,Max Penalty,Max Total Cost,MinCost,Max Allocation,60
+4,Two Min,Max Penalty,Min Total Cost,MinCost,Max Cost Allocation,60
+5,Two Min,Max Penalty,Min Total Cost,MinCost,Max Allocation,60
+6,Two Min,Max Penalty,Min Total Cost,MinCost,Max Supply,60
+7,Two Min,Max Penalty,Max Total Cost,MinCost,Min Top-Bottom Sum,60
+8,Two Min,Max Penalty,All Penalties,MinCA,Max Cost Allocation,60
+9,Two Min,Max Penalty,Max Total Cost,MinCost,Max Cost Allocation,60
+10,Two Min,Max Penalty,All Penalties,MinCA,Max Allocation,60
+11,Two Min,Max Penalty,All Penalties,MinCost,Max Cost Allocation,60
+12,Two Min,Max Penalty,All Penalties,MinCost,Max Supply,60
+13,Two Min,Max Penalty,All Penalties,MinCost,Max Demand,60
+14,Two Min,Max Penalty,All Penalties,MinCost,Max Supply and Demand,60
+15,Two Min,Max Penalty,All Penalties,MinCost,Max Allocation,60
+16,Two Min,Max Penalty,Max Total Cost,MinCost,Max Supply,55
+17,Min Max,Max Penalty,All Penalties,MinCA,Min Top-Bottom Sum,55
+18,Two Min,Max Penalty,All Penalties,MinCost,Min Supply,55
+19,Two Min,Max Penalty,Min Total Cost,MinCost,Max Supply and Demand,55
+20,Min Max,Max Penalty,All Penalties,MinCA,Max Supply and Demand,55
+21,Min Max,Max Penalty,All Penalties,MinCA,Max Supply Demand Mult,55
+22,Min Max,Max Penalty,All Penalties,MinCA,Max Supply,55
+23,Two Min,Max Penalty,All Penalties,MinCost,Min Allocation,55
+24,Two Min,Max Penalty,All Penalties,MinCost,Index,55
+25,Two Min,Max Penalty,All Penalties,MinCA,Max Supply Demand Mult,55
+26,Two Min,Max Penalty,Max Total Cost,MinCA,Max Cost Allocation,55
+27,Two Min,Max Penalty,All Penalties,MinCost,Min Cost Allocation,55
+28,Two Min,Max Penalty,All Penalties,MinCost,Max Top-Bottom Sum,55
+29,Two Min,Max Penalty,All Penalties,MinCA,Max Demand,55
+30,Two Min,Max Penalty,All Penalties,MinCA,Max Supply and Demand,55
+31,Two Min,Max Penalty,All Penalties,MinCA,Max Supply,55
+32,Two Min,Max Penalty,Max Total Cost,MinCA,Max Allocation,55
+33,Two Min,Max Penalty,All Penalties,MinCA,Min Top-Bottom Sum,55
+34,Min Max,Max Penalty,Max Total Cost,MinCost,Max Supply,50
+35,Two Min,Max Penalty,Min Total Cost,MinCost,Max Supply Demand Mult,50
+36,Min Max,Max Penalty,All Penalties,MinCA,Min Allocation,50
+37,Two Min,Max Penalty,Max Total Cost,MinCA,Min Top-Bottom Sum,50
+38,Two Min,Max Penalty,Max Total Cost,MinCA,Max Demand,50
+39,Min Max,Max Penalty,All Penalties,MinCA,Max Cost Allocation,50
+40,Two Min,Max Penalty,Max Total Cost,MinCA,Max Supply Demand Mult,50
+41,Min Max,Max Penalty,All Penalties,MinCA,Min Supply Demand Mult,50
+42,Two Min,Max Penalty,Min Total Cost,MinCA,Min Top-Bottom Sum,50
+43,Min Max,Max Penalty,Min Total Cost,MinCA,Max Supply,50
+44,Two Min,Max Penalty,Min Total Cost,MinCA,Max Allocation,50
+45,Min Max,Max Penalty,Max Total Cost,MinCost,Max Supply and Demand,50
+46,Two Min,Max Penalty,Min Total Cost,MinCA,Max Cost Allocation,50
+47,Min Max,Max Penalty,Min Total Cost,MinCA,Max Supply and Demand,50
+48,Min Max,Max Penalty,Min Total Cost,MinCA,Min Top-Bottom Sum,50
+49,Min Max,Max Penalty,Min Total Cost,MinCA,Max Allocation,50
+50,Min Max,Max Penalty,Min Total Cost,MinCA,Max Cost Allocation,50
+51,Min Max,Max Penalty,Min Total Cost,MinCA,Max Supply Demand Mult,50
+52,Two Min,Max Penalty,Max Total Cost,MinCost,Index,50
+53,Two Min,Max Penalty,Max Total Cost,MinCost,Max Demand,50
+54,Two Min,Max Penalty,Max Total Cost,MinCost,Max Supply and Demand,50
+55,Min Max,Max Penalty,Max Total Cost,MinCost,Min Top-Bottom Sum,50
+56,Min Max,Max Penalty,Max Total Cost,MinCost,Max Supply Demand Mult,50
+57,Min Max,Max Penalty,Max Total Cost,MinCost,Max Allocation,50
+58,Min Max,Max Penalty,All Penalties,MinCA,Min Cost Allocation,50
+59,Min Max,Max Penalty,Max Total Cost,MinCost,Max Cost Allocation,50
+60,Min Max,Max Penalty,All Penalties,MinCA,Max Top-Bottom Sum,50
+61,Two Min,Max Penalty,All Penalties,MinCA,Min Allocation,50
+62,Two Min,Max Penalty,All Penalties,MinCA,Min Cost Allocation,50
+63,Two Min,Max Penalty,All Penalties,MinCA,Min Supply and Demand,50
+64,Two Min,Max Penalty,All Penalties,MinCA,Min Demand,50
+65,Two Min,Max Penalty,All Penalties,MinCA,Index,50
+66,Two Min,Max Penalty,All Penalties,MinCost,Min Supply Demand Mult,50
+67,Two Min,Max Penalty,All Penalties,MinCost,Max Supply Demand Mult,50
+68,Two Min,Max Penalty,All Penalties,MinCost,Min Supply and Demand,50
+69,Two Min,Max Penalty,All Penalties,MinCost,Min Demand,50
+70,Min Max,Max Penalty,All Penalties,MinCA,Index,50
+71,Min Max,Max Penalty,All Penalties,MinCA,Min Supply,50
+72,Min Max,Max Penalty,All Penalties,MinCA,Min Supply and Demand,50
+73,Two Min,Max Penalty,Min Total Cost,MinCost,Max Demand,50
+74,Min Max,Max Penalty,All Penalties,MinCA,Max Allocation,50
+75,Min Max,Max Penalty,All Penalties,MinCA,Min Demand,50
+76,Two Min,Max Penalty,Min Total Cost,MinCost,Index,50
+77,Two Max,Max Penalty,Min Total Cost,MinCost,Max Supply,45
+78,Two Max,Max Penalty,All Penalties,MinCost,Max Supply,45
+79,Two Min,Max Penalty,Max Total Cost,MinCost,Max Supply Demand Mult,45
+80,Two Min,Max Penalty,Max Total Cost,MinCA,Index,45
+81,Two Min,Max Penalty,Max Total Cost,MinCA,Max Supply,45
+82,Min Max,Max Penalty,All Penalties,MinCost,Max Supply,45
+83,Two Min,Max Penalty,Max Total Cost,MinCA,Min Demand,45
+84,Two Min,Max Penalty,Max Total Cost,MinCA,Max Supply and Demand,45
+85,Two Min,Max Penalty,Max Total Cost,MinCA,Min Supply and Demand,45
+86,Two Max,Max Penalty,Min Total Cost,MinCost,Max Supply and Demand,45
+87,Two Min,Max Penalty,Max Total Cost,MinCA,Min Allocation,45
+88,Two Max,Max Penalty,Min Total Cost,MinCost,Min Top-Bottom Sum,45
+89,Two Min,Max Penalty,Max Total Cost,MinCA,Min Cost Allocation,45
+90,Two Max,Max Penalty,Min Total Cost,MinCost,Max Allocation,45
+91,Two Max,Max Penalty,Min Total Cost,MinCost,Max Supply Demand Mult,45
+92,Two Max,Max Penalty,All Penalties,MinCost,Max Supply Demand Mult,45
+93,Two Max,Max Penalty,All Penalties,MinCost,Max Cost Allocation,45
+94,Two Max,Max Penalty,All Penalties,MinCost,Max Allocation,45
+95,Two Max,Max Penalty,All Penalties,MinCost,Min Top-Bottom Sum,45
+96,Two Max,Max Penalty,Min Total Cost,MinCost,Max Cost Allocation,45
+97,Two Max,Max Penalty,All Penalties,MinCost,Max Supply and Demand,45
+98,Min Max,Max Penalty,All Penalties,MinCost,Min Cost Allocation,45
+99,Min Max,Max Penalty,All Penalties,MinCost,Index,45
+100,Min Max,Max Penalty,Min Total Cost,MinCost,Min Top-Bottom Sum,45
+101,Min Max,Max Penalty,Min Total Cost,MinCost,Max Allocation,45
+102,Min Max,Max Penalty,Min Total Cost,MinCost,Max Cost Allocation,45
+103,Min Max,Max Penalty,Min Total Cost,MinCost,Max Supply Demand Mult,45
+104,Min Max,Max Penalty,All Penalties,MinCA,Max Demand,45
+105,Min Max,Max Penalty,Min Total Cost,MinCA,Index,45
+106,Min Max,Max Penalty,All Penalties,MinCost,Min Supply Demand Mult,45
+107,Min Max,Max Penalty,Min Total Cost,MinCA,Min Supply,45
+108,Min Max,Max Penalty,Min Total Cost,MinCA,Max Demand,45
+109,Min Max,Max Penalty,Min Total Cost,MinCA,Min Demand,45
+110,Min Max,Max Penalty,All Penalties,MinCost,Max Supply Demand Mult,45
+111,Min Max,Max Penalty,Min Total Cost,MinCA,Min Supply and Demand,45
+112,Min Max,Max Penalty,Min Total Cost,MinCA,Max Top-Bottom Sum,45
+113,Min Max,Max Penalty,All Penalties,MinCost,Min Supply,45
+114,Min Max,Max Penalty,All Penalties,MinCost,Max Cost Allocation,45
+115,Min Max,Max Penalty,Min Total Cost,MinCA,Min Allocation,45
+116,Min Max,Max Penalty,All Penalties,MinCost,Min Allocation,45
+117,Min Max,Max Penalty,Min Total Cost,MinCA,Min Cost Allocation,45
+118,Min Max,Max Penalty,All Penalties,MinCost,Max Allocation,45
+119,Min Max,Max Penalty,Min Total Cost,MinCA,Min Supply Demand Mult,45
+120,Min Max,Max Penalty,Min Total Cost,MinCost,Max Supply and Demand,45
+121,Min Max,Max Penalty,Min Total Cost,MinCost,Max Supply,45
+122,Min Max,Max Penalty,All Penalties,MinCost,Min Top-Bottom Sum,45
+123,Min Max,Max Penalty,All Penalties,MinCost,Max Top-Bottom Sum,45
+124,Min Max,Max Penalty,All Penalties,MinCost,Min Supply and Demand,45
+125,Min Max,Max Penalty,All Penalties,MinCost,Max Supply and Demand,45
+126,Min Max,Max Penalty,All Penalties,MinCost,Min Demand,45
+127,Two Min,Max Penalty,Min Total Cost,MinCost,Min Cost Allocation,45
+128,Min Max,Max Penalty,Max Total Cost,MinCost,Min Supply Demand Mult,45
+129,Min Max,Max Penalty,Max Total Cost,MinCost,Min Cost Allocation,45
+130,Min Max,Max Penalty,Max Total Cost,MinCost,Min Allocation,45
+131,Min Max,Max Penalty,Max Total Cost,MinCost,Max Top-Bottom Sum,45
+132,Two Min,Max Penalty,Min Total Cost,MinCost,Min Supply,45
+133,Min Max,Max Penalty,Max Total Cost,MinCost,Min Supply and Demand,45
+134,Two Min,Max Penalty,Min Total Cost,MinCost,Min Demand,45
+135,Two Min,Max Penalty,Min Total Cost,MinCost,Min Supply and Demand,45
+136,Two Min,Max Penalty,Min Total Cost,MinCost,Max Top-Bottom Sum,45
+137,Two Min,Max Penalty,Min Total Cost,MinCost,Min Allocation,45
+138,Min Max,Max Penalty,Max Total Cost,MinCost,Min Demand,45
+139,Min Max,Max Penalty,Max Total Cost,MinCost,Max Demand,45
+140,Min Max,Max Penalty,Max Total Cost,MinCost,Min Supply,45
+141,Min Max,Max Penalty,Max Total Cost,MinCost,Index,45
+142,Two Min,Max Penalty,Min Total Cost,MinCA,Max Supply Demand Mult,45
+143,Two Min,Max Penalty,All Penalties,MinCA,Min Supply,45
+144,Two Min,Max Penalty,All Penalties,MinCA,Max Top-Bottom Sum,45
+145,Two Min,Max Penalty,Min Total Cost,MinCA,Max Supply,45
+146,Two Min,Max Penalty,All Penalties,MinCA,Min Supply Demand Mult,45
+147,Two Max,Max Penalty,All Penalties,MinCost,Min Allocation,40
+148,Two Max,Max Penalty,Min Total Cost,MinCA,Max Supply Demand Mult,40
+149,Two Min,Max Penalty,Max Total Cost,MinCost,Min Allocation,40
+150,Two Max,Max Penalty,Min Total Cost,MinCA,Max Supply and Demand,40
+151,Two Min,Max Penalty,Max Total Cost,MinCost,Min Cost Allocation,40
+152,Two Max,Max Penalty,All Penalties,MinCost,Min Cost Allocation,40
+153,Two Max,Max Penalty,All Penalties,MinCost,Min Supply Demand Mult,40
+154,Two Max,Max Penalty,All Penalties,MinCA,Max Supply,40
+155,Two Max,Max Penalty,All Penalties,MinCA,Max Supply and Demand,40
+156,Two Max,Max Penalty,Min Total Cost,MinCost,Min Supply Demand Mult,40
+157,Two Min,Max Penalty,Max Total Cost,MinCA,Min Supply,40
+158,Two Max,Max Penalty,Min Total Cost,MinCA,Max Supply,40
+159,Two Max,Max Penalty,Min Total Cost,MinCA,Min Top-Bottom Sum,40
+160,Two Max,Max Penalty,Min Total Cost,MinCA,Max Allocation,40
+161,Two Max,Max Penalty,Min Total Cost,MinCA,Max Cost Allocation,40
+162,Two Min,Max Penalty,Max Total Cost,MinCA,Max Top-Bottom Sum,40
+163,Two Min,Max Penalty,Max Total Cost,MinCA,Min Supply Demand Mult,40
+164,Two Min,Max Penalty,Min Total Cost,MinCA,Min Cost Allocation,40
+165,Two Min,Max Penalty,Min Total Cost,MinCost,Min Supply Demand Mult,40
+166,Two Min,Max Penalty,Min Total Cost,MinCA,Index,40
+167,Two Min,Max Penalty,Min Total Cost,MinCA,Max Demand,40
+168,Min Max,Max Penalty,Min Total Cost,MinCost,Min Supply and Demand,40
+169,Min Max,Max Penalty,Min Total Cost,MinCost,Max Top-Bottom Sum,40
+170,Two Min,Max Penalty,Min Total Cost,MinCA,Min Demand,40
+171,Two Min,Max Penalty,Min Total Cost,MinCA,Max Supply and Demand,40
+172,Min Max,Max Penalty,Min Total Cost,MinCost,Min Allocation,40
+173,Two Min,Max Penalty,Min Total Cost,MinCA,Min Supply and Demand,40
+174,Min Max,Max Penalty,Min Total Cost,MinCost,Min Cost Allocation,40
+175,Min Max,Max Penalty,Min Total Cost,MinCost,Min Supply Demand Mult,40
+176,Two Min,Max Penalty,Min Total Cost,MinCA,Min Allocation,40
+177,Two Min,Max Penalty,Max Total Cost,MinCost,Max Top-Bottom Sum,40
+178,Min Max,Max Penalty,Max Total Cost,MinCA,Max Supply Demand Mult,40
+179,Min Max,Max Penalty,Max Total Cost,MinCA,Max Cost Allocation,40
+180,Min Max,Max Penalty,Max Total Cost,MinCA,Max Allocation,40
+181,Min Max,Max Penalty,Max Total Cost,MinCA,Min Top-Bottom Sum,40
+182,Min Max,Max Penalty,Max Total Cost,MinCA,Max Supply and Demand,40
+183,Min Max,Two Max,All Penalties,MinCA,Max Supply,40
+184,Min Max,Two Max,All Penalties,MinCA,Max Supply Demand Mult,40
+185,Two Min,Max Penalty,Max Total Cost,MinCost,Min Supply,40
+186,Min Max,Max Penalty,Max Total Cost,MinCA,Max Supply,40
+187,Two Min,Max Penalty,Max Total Cost,MinCost,Min Demand,40
+188,Two Min,Max Penalty,Max Total Cost,MinCost,Min Supply and Demand,40
+189,Two Max,Max Penalty,Min Total Cost,MinCost,Max Top-Bottom Sum,40
+190,Two Max,Max Penalty,Min Total Cost,MinCost,Min Cost Allocation,40
+191,Two Max,Max Penalty,All Penalties,MinCost,Index,40
+192,Two Max,Max Penalty,Min Total Cost,MinCost,Min Allocation,40
+193,Two Max,Max Penalty,All Penalties,MinCost,Min Supply,40
+194,Min Max,Max Penalty,Min Total Cost,MinCost,Min Supply,40
+195,Min Max,Max Penalty,Min Total Cost,MinCost,Max Demand,40
+196,Two Max,Max Penalty,Min Total Cost,MinCost,Min Supply and Demand,40
+197,Two Max,Max Penalty,Min Total Cost,MinCost,Min Demand,40
+198,Two Max,Max Penalty,Min Total Cost,MinCost,Max Demand,40
+199,Two Max,Max Penalty,Min Total Cost,MinCost,Min Supply,40
+200,Two Max,Max Penalty,All Penalties,MinCost,Max Demand,40
+201,Min Max,Max Penalty,Min Total Cost,MinCost,Index,40
+202,Two Max,Max Penalty,Min Total Cost,MinCost,Index,40
+203,Two Max,Max Penalty,All Penalties,MinCost,Max Top-Bottom Sum,40
+204,Min Max,Max Penalty,Min Total Cost,MinCost,Min Demand,40
+205,Min Max,Max Penalty,All Penalties,MinCost,Max Demand,40
+206,Min Max,Max Penalty,Max Total Cost,MinCA,Min Demand,35
+207,Two Min,Max Penalty,Max Total Cost,MinCost,Min Supply Demand Mult,35
+208,Min Max,Two Max,Max Total Cost,MinCA,Max Cost Allocation,35
+209,Two Max,Max Penalty,Min Total Cost,MinCA,Min Cost Allocation,35
+210,Two Max,Max Penalty,Min Total Cost,MinCA,Min Supply Demand Mult,35
+211,Min Max,Max Penalty,Max Total Cost,MinCA,Max Demand,35
+212,Min Max,Max Penalty,Max Total Cost,MinCA,Min Supply,35
+213,Two Min,Max Penalty,Min Total Cost,MinCA,Min Supply Demand Mult,35
+214,Min Max,Max Penalty,Max Total Cost,MinCA,Min Supply Demand Mult,35
+215,Min Max,Two Max,Max Total Cost,MinCA,Max Allocation,35
+216,Two Max,Two Max,All Penalties,MinCA,Max Supply,35
+217,Min Max,Max Penalty,Max Total Cost,MinCA,Min Cost Allocation,35
+218,Min Max,Max Penalty,Max Total Cost,MinCA,Min Supply and Demand,35
+219,Min Max,Max Penalty,Max Total Cost,MinCA,Min Allocation,35
+220,Min Max,Max Penalty,Max Total Cost,MinCA,Index,35
+221,Min Max,Two Max,Max Total Cost,MinCA,Min Top-Bottom Sum,35
+222,Min Max,Max Penalty,Max Total Cost,MinCA,Max Top-Bottom Sum,35
+223,Two Max,Max Penalty,Min Total Cost,MinCA,Max Top-Bottom Sum,35
+224,Two Min,Two Max,Max Total Cost,MinCA,Min Top-Bottom Sum,35
+225,Min Max,Two Max,All Penalties,MinCA,Max Supply and Demand,35
+226,Two Max,Max Penalty,All Penalties,MinCost,Min Supply and Demand,35
+227,Two Min,Max Penalty,Min Total Cost,MinCA,Min Supply,35
+228,Min Max,Two Max,All Penalties,MinCA,Min Supply,35
+229,Two Max,Max Penalty,All Penalties,MinCost,Min Demand,35
+230,Min Max,Two Max,All Penalties,MinCA,Max Top-Bottom Sum,35
+231,Two Min,Two Max,Max Total Cost,MinCA,Max Allocation,35
+232,Min Max,Two Max,All Penalties,MinCA,Max Allocation,35
+233,Two Min,Two Max,All Penalties,MinCA,Max Supply,35
+234,Two Max,Max Penalty,All Penalties,MinCA,Min Top-Bottom Sum,35
+235,Two Max,Max Penalty,All Penalties,MinCA,Max Allocation,35
+236,Min Max,Two Max,All Penalties,MinCA,Max Cost Allocation,35
+237,Two Max,Max Penalty,All Penalties,MinCA,Max Cost Allocation,35
+238,Two Max,Max Penalty,All Penalties,MinCA,Max Supply Demand Mult,35
+239,Two Min,Two Max,All Penalties,MinCA,Max Supply and Demand,35
+240,Two Max,Max Penalty,Min Total Cost,MinCA,Index,35
+241,Two Min,Max Penalty,Min Total Cost,MinCA,Max Top-Bottom Sum,35
+242,Two Max,Max Penalty,Min Total Cost,MinCA,Min Supply,35
+243,Two Max,Max Penalty,Min Total Cost,MinCA,Max Demand,35
+244,Two Max,Max Penalty,Min Total Cost,MinCA,Min Demand,35
+245,Two Min,Two Max,Max Total Cost,MinCA,Max Cost Allocation,35
+246,Two Max,Max Penalty,Min Total Cost,MinCA,Min Supply and Demand,35
+247,Two Max,Max Penalty,Min Total Cost,MinCA,Min Allocation,35
+248,Two Min,Two Max,Max Total Cost,MinCA,Min Allocation,30
+249,Two Min,Two Max,Max Total Cost,MinCA,Max Supply Demand Mult,30
+250,Min Max,Two Max,All Penalties,MinCA,Index,30
+251,Two Min,Two Max,Max Total Cost,MinCA,Min Cost Allocation,30
+252,Min Max,Two Max,Max Total Cost,MinCA,Min Allocation,30
+253,Two Min,Two Max,All Penalties,MinCA,Max Supply Demand Mult,30
+254,Two Max,Max Penalty,Max Total Cost,MinCost,Max Supply,30
+255,Two Min,Two Max,All Penalties,MinCA,Max Cost Allocation,30
+256,Min Max,Two Max,Max Total Cost,MinCA,Max Demand,30
+257,Two Min,Two Max,All Penalties,MinCA,Max Allocation,30
+258,Two Min,Two Max,All Penalties,MinCA,Max Top-Bottom Sum,30
+259,Min Max,Two Max,Max Total Cost,MinCA,Min Cost Allocation,30
+260,Two Max,Max Penalty,Max Total Cost,MinCost,Max Supply and Demand,30
+261,Min Max,Two Max,Max Total Cost,MinCA,Max Supply Demand Mult,30
+262,Two Min,Two Max,All Penalties,MinCA,Min Supply,30
+263,Two Max,Max Penalty,Max Total Cost,MinCost,Min Top-Bottom Sum,30
+264,Min Max,Two Max,All Penalties,MinCost,Max Supply,30
+265,Two Max,Two Max,All Penalties,MinCost,Max Supply,30
+266,Two Max,Max Penalty,Max Total Cost,MinCost,Max Allocation,30
+267,Two Max,Max Penalty,Max Total Cost,MinCost,Max Cost Allocation,30
+268,Two Max,Max Penalty,Max Total Cost,MinCost,Max Supply Demand Mult,30
+269,Two Max,Max Penalty,All Penalties,MinCA,Max Top-Bottom Sum,30
+270,Two Max,Two Max,Max Total Cost,MinCA,Max Allocation,30
+271,Two Max,Two Max,Max Total Cost,MinCA,Min Top-Bottom Sum,30
+272,Two Max,Two Max,All Penalties,MinCA,Max Allocation,30
+273,Two Max,Two Max,Max Total Cost,MinCA,Max Supply,30
+274,Min Max,Two Max,Max Total Cost,MinCA,Max Supply,30
+275,Two Max,Max Penalty,All Penalties,MinCA,Min Supply Demand Mult,30
+276,Two Max,Max Penalty,All Penalties,MinCA,Min Cost Allocation,30
+277,Two Max,Max Penalty,All Penalties,MinCA,Min Allocation,30
+278,Min Max,Two Max,All Penalties,MinCA,Min Supply and Demand,30
+279,Two Max,Max Penalty,All Penalties,MinCA,Min Supply and Demand,30
+280,Two Max,Max Penalty,All Penalties,MinCA,Min Demand,30
+281,Two Max,Max Penalty,All Penalties,MinCA,Max Demand,30
+282,Two Max,Max Penalty,All Penalties,MinCA,Min Supply,30
+283,Two Max,Max Penalty,All Penalties,MinCA,Index,30
+284,Min Max,Two Max,Max Total Cost,MinCA,Min Demand,30
+285,Two Max,Two Max,All Penalties,MinCA,Max Supply and Demand,30
+286,Two Max,Two Max,All Penalties,MinCA,Max Top-Bottom Sum,30
+287,Two Max,Two Max,Max Total Cost,MinCA,Max Cost Allocation,30
+288,Min Max,Two Max,All Penalties,MinCA,Min Top-Bottom Sum,30
+289,Min Max,Two Max,All Penalties,MinCA,Min Allocation,30
+290,Min Max,Two Max,All Penalties,MinCA,Min Cost Allocation,30
+291,Two Min,Two Max,Max Total Cost,MinCA,Min Supply and Demand,30
+292,Two Min,Two Max,Max Total Cost,MinCA,Min Demand,30
+293,Two Min,Two Max,Max Total Cost,MinCA,Max Demand,30
+294,Two Min,Two Max,Max Total Cost,MinCA,Max Supply,30
+295,Two Min,Two Max,Max Total Cost,MinCA,Index,30
+296,Two Max,Two Max,All Penalties,MinCA,Max Supply Demand Mult,30
+297,Min Max,Two Max,Max Total Cost,MinCA,Min Supply and Demand,30
+298,Min Max,Two Max,Max Total Cost,MinCA,Index,30
+299,Two Max,Two Max,All Penalties,MinCA,Max Cost Allocation,30
+300,Two Max,Two Max,Max Total Cost,MinCA,Max Supply Demand Mult,30
+301,Two Max,Two Max,All Penalties,MinCA,Min Supply,30
+302,Min Max,Two Max,Max Total Cost,MinCA,Max Top-Bottom Sum,25
+303,Two Max,Two Max,Max Total Cost,MinCA,Min Supply Demand Mult,25
+304,Min Max,Two Max,Max Total Cost,MinCost,Min Top-Bottom Sum,25
+305,Min Max,Two Max,Max Total Cost,MinCA,Max Supply and Demand,25
+306,Min Max,Two Max,Max Total Cost,MinCA,Min Supply,25
+307,Min Max,Two Max,Max Total Cost,MinCost,Max Demand,25
+308,Min Max,Two Max,Max Total Cost,MinCA,Min Supply Demand Mult,25
+309,Two Max,Max Penalty,Max Total Cost,MinCost,Min Supply,25
+310,Two Max,Max Penalty,Max Total Cost,MinCA,Max Allocation,25
+311,Two Max,Max Penalty,Max Total Cost,MinCA,Min Top-Bottom Sum,25
+312,Two Min,Two Max,Max Total Cost,MinCost,Max Demand,25
+313,Two Min,Two Max,Max Total Cost,MinCost,Min Top-Bottom Sum,25
+314,Two Min,Two Max,Max Total Cost,MinCA,Min Supply,25
+315,Two Min,Two Max,Max Total Cost,MinCA,Max Supply and Demand,25
+316,Two Min,Two Max,Max Total Cost,MinCA,Max Top-Bottom Sum,25
+317,Two Min,Two Max,Max Total Cost,MinCA,Min Supply Demand Mult,25
+318,Two Max,Max Penalty,Max Total Cost,MinCost,Index,25
+319,Two Max,Max Penalty,Max Total Cost,MinCA,Max Cost Allocation,25
+320,Two Max,Max Penalty,Max Total Cost,MinCost,Max Demand,25
+321,Two Max,Max Penalty,Max Total Cost,MinCost,Min Demand,25
+322,Two Max,Max Penalty,Max Total Cost,MinCost,Min Supply and Demand,25
+323,Two Max,Max Penalty,Max Total Cost,MinCost,Max Top-Bottom Sum,25
+324,Two Max,Max Penalty,Max Total Cost,MinCost,Min Allocation,25
+325,Two Max,Max Penalty,Max Total Cost,MinCost,Min Cost Allocation,25
+326,Two Max,Max Penalty,Max Total Cost,MinCost,Min Supply Demand Mult,25
+327,Two Max,Max Penalty,Max Total Cost,MinCA,Max Supply,25
+328,Two Max,Two Max,Max Total Cost,MinCA,Min Allocation,25
+329,Min Max,Two Max,All Penalties,MinCost,Max Allocation,25
+330,Min Max,Two Max,All Penalties,MinCost,Max Cost Allocation,25
+331,Min Max,Two Max,All Penalties,MinCost,Max Supply Demand Mult,25
+332,Min Max,Two Max,All Penalties,MinCA,Max Demand,25
+333,Min Max,Two Max,All Penalties,MinCA,Min Demand,25
+334,Min Max,Two Max,All Penalties,MinCA,Min Supply Demand Mult,25
+335,Two Max,Max Penalty,Max Total Cost,MinCA,Max Supply and Demand,25
+336,Two Max,Two Max,Max Total Cost,MinCA,Min Cost Allocation,25
+337,Min Max,Two Max,All Penalties,MinCost,Max Top-Bottom Sum,25
+338,Two Max,Two Max,Max Total Cost,MinCA,Max Top-Bottom Sum,25
+339,Two Max,Two Max,Max Total Cost,MinCA,Min Supply and Demand,25
+340,Two Max,Two Max,Max Total Cost,MinCA,Max Supply and Demand,25
+341,Two Max,Two Max,Max Total Cost,MinCA,Min Demand,25
+342,Two Max,Two Max,Max Total Cost,MinCA,Max Demand,25
+343,Two Max,Two Max,Max Total Cost,MinCA,Min Supply,25
+344,Two Max,Two Max,Max Total Cost,MinCA,Index,25
+345,Two Max,Max Penalty,Max Total Cost,MinCA,Max Supply Demand Mult,25
+346,Two Max,Two Max,All Penalties,MinCost,Max Cost Allocation,25
+347,Two Min,Two Max,All Penalties,MinCA,Min Cost Allocation,25
+348,Two Max,Two Max,All Penalties,MinCA,Min Top-Bottom Sum,25
+349,Two Max,Two Max,All Penalties,MinCA,Min Supply and Demand,25
+350,Two Min,Two Max,All Penalties,MinCA,Index,25
+351,Two Min,Two Max,All Penalties,MinCA,Min Allocation,25
+352,Two Max,Two Max,All Penalties,MinCA,Index,25
+353,Two Min,Two Max,All Penalties,MinCA,Min Top-Bottom Sum,25
+354,Two Max,Two Max,All Penalties,MinCost,Max Supply Demand Mult,25
+355,Two Min,Two Max,All Penalties,MinCA,Min Supply and Demand,25
+356,Two Max,Two Max,All Penalties,MinCA,Min Allocation,25
+357,Two Max,Two Max,All Penalties,MinCost,Max Allocation,25
+358,Two Min,Two Max,All Penalties,MinCA,Max Demand,25
+359,Two Max,Two Max,All Penalties,MinCost,Max Top-Bottom Sum,25
+360,Two Min,Two Max,All Penalties,MinCost,Max Cost Allocation,25
+361,Two Min,Two Max,All Penalties,MinCost,Max Supply,25
+362,Two Min,Two Max,All Penalties,MinCost,Max Allocation,25
+363,Two Min,Two Max,All Penalties,MinCost,Max Supply Demand Mult,25
+364,Two Max,Two Max,All Penalties,MinCA,Min Cost Allocation,25
+365,Min Max,Two Max,Max Total Cost,MinCost,Index,20
+366,Two Min,Two Max,Max Total Cost,MinCost,Index,20
+367,Two Max,Two Max,Max Total Cost,MinCost,Max Supply Demand Mult,20
+368,Min Max,Two Max,Max Total Cost,MinCost,Min Demand,20
+369,Min Max,Two Max,Max Total Cost,MinCost,Max Supply and Demand,20
+370,Min Max,Two Max,Max Total Cost,MinCost,Min Supply and Demand,20
+371,Two Max,Max Penalty,Max Total Cost,MinCA,Min Supply and Demand,20
+372,Two Min,Two Max,Max Total Cost,MinCost,Max Cost Allocation,20
+373,Two Max,Max Penalty,Max Total Cost,MinCA,Max Top-Bottom Sum,20
+374,Two Max,Max Penalty,Max Total Cost,MinCA,Min Allocation,20
+375,Two Max,Max Penalty,Max Total Cost,MinCA,Min Demand,20
+376,Two Max,Max Penalty,Max Total Cost,MinCA,Max Demand,20
+377,Two Max,Max Penalty,Max Total Cost,MinCA,Min Cost Allocation,20
+378,Two Max,Max Penalty,Max Total Cost,MinCA,Min Supply Demand Mult,20
+379,Two Min,Two Max,Max Total Cost,MinCost,Max Supply Demand Mult,20
+380,Two Min,Two Max,Max Total Cost,MinCost,Min Cost Allocation,20
+381,Two Min,Two Max,All Penalties,MinCA,Min Demand,20
+382,Two Min,Two Max,Max Total Cost,MinCost,Min Allocation,20
+383,Two Min,Two Max,Max Total Cost,MinCost,Max Allocation,20
+384,Two Min,Two Max,Max Total Cost,MinCost,Min Supply and Demand,20
+385,Two Max,Max Penalty,Max Total Cost,MinCA,Min Supply,20
+386,Two Min,Two Max,Max Total Cost,MinCost,Max Supply and Demand,20
+387,Two Min,Two Max,Max Total Cost,MinCost,Min Demand,20
+388,Two Min,Two Max,All Penalties,MinCA,Min Supply Demand Mult,20
+389,Two Max,Max Penalty,Max Total Cost,MinCA,Index,20
+390,Min Max,Two Max,All Penalties,MinCost,Min Allocation,20
+391,Two Max,Two Max,Max Total Cost,MinCost,Min Top-Bottom Sum,20
+392,Min Max,Two Max,All Penalties,MinCost,Min Cost Allocation,20
+393,Two Max,Two Max,Max Total Cost,MinCost,Max Supply and Demand,20
+394,Min Max,Two Max,Max Total Cost,MinCost,Max Supply Demand Mult,20
+395,Min Max,Two Max,Max Total Cost,MinCost,Min Cost Allocation,20
+396,Min Max,Two Max,Max Total Cost,MinCost,Max Cost Allocation,20
+397,Min Max,Two Max,Max Total Cost,MinCost,Min Allocation,20
+398,Min Max,Two Max,Max Total Cost,MinCost,Max Allocation,20
+399,Min Max,Two Max,All Penalties,MinCost,Min Supply Demand Mult,20
+400,Two Max,Two Max,All Penalties,MinCA,Min Supply Demand Mult,20
+401,Two Max,Two Max,All Penalties,MinCA,Min Demand,20
+402,Two Max,Two Max,Max Total Cost,MinCost,Max Demand,20
+403,Two Max,Two Max,All Penalties,MinCA,Max Demand,20
+404,Two Max,Two Max,All Penalties,MinCost,Min Supply Demand Mult,20
+405,Two Max,Two Max,All Penalties,MinCost,Min Cost Allocation,20
+406,Two Max,Two Max,All Penalties,MinCost,Min Allocation,20
+407,Two Min,Two Max,All Penalties,MinCost,Max Top-Bottom Sum,20
+408,Two Min,Two Max,Min Total Cost,MinCost,Max Supply Demand Mult,15
+409,Two Max,Two Max,All Penalties,MinCost,Index,15
+410,Min Max,Two Max,All Penalties,MinCost,Min Supply and Demand,15
+411,Min Max,Two Max,All Penalties,MinCost,Min Supply,15
+412,Min Max,Two Max,All Penalties,MinCost,Min Demand,15
+413,Two Min,Two Max,All Penalties,MinCost,Max Demand,15
+414,Two Min,Min Penalty,Max Total Cost,MinCA,Min Supply Demand Mult,15
+415,Two Min,Two Max,Min Total Cost,MinCost,Max Cost Allocation,15
+416,Two Max,Two Max,Max Total Cost,MinCost,Min Supply Demand Mult,15
+417,Two Min,Two Max,Max Total Cost,MinCost,Min Supply Demand Mult,15
+418,Min Max,Two Max,All Penalties,MinCost,Index,15
+419,Two Min,Min Penalty,All Penalties,MinCA,Max Demand,15
+420,Two Min,Two Max,Max Total Cost,MinCost,Max Top-Bottom Sum,15
+421,Two Min,Min Penalty,All Penalties,MinCA,Min Top-Bottom Sum,15
+422,Two Min,Two Max,Max Total Cost,MinCost,Min Supply,15
+423,Two Min,Min Penalty,All Penalties,MinCA,Max Allocation,15
+424,Two Min,Two Max,Max Total Cost,MinCost,Max Supply,15
+425,Two Min,Min Penalty,All Penalties,MinCA,Max Cost Allocation,15
+426,Two Max,Two Max,Max Total Cost,MinCost,Min Cost Allocation,15
+427,Two Max,Two Max,Max Total Cost,MinCost,Max Allocation,15
+428,Two Max,Two Max,Max Total Cost,MinCost,Max Cost Allocation,15
+429,Two Max,Two Max,All Penalties,MinCost,Min Supply,15
+430,Two Min,Two Max,All Penalties,MinCost,Min Supply Demand Mult,15
+431,Two Max,Two Max,All Penalties,MinCost,Min Demand,15
+432,Two Max,Two Max,All Penalties,MinCost,Min Supply and Demand,15
+433,Min Max,Two Max,Max Total Cost,MinCost,Min Supply,15
+434,Min Max,Two Max,Max Total Cost,MinCost,Max Supply,15
+435,Two Min,Two Max,All Penalties,MinCost,Min Cost Allocation,15
+436,Min Max,Two Max,Max Total Cost,MinCost,Max Top-Bottom Sum,15
+437,Two Max,Two Max,Max Total Cost,MinCost,Min Allocation,15
+438,Min Max,Two Max,Max Total Cost,MinCost,Min Supply Demand Mult,15
+439,Two Max,Two Max,Min Total Cost,MinCost,Max Supply Demand Mult,15
+440,Two Max,Two Max,Max Total Cost,MinCost,Max Top-Bottom Sum,15
+441,Two Min,Two Max,Min Total Cost,MinCost,Max Supply,15
+442,Two Min,Two Max,Min Total Cost,MinCost,Max Allocation,15
+443,Two Max,Two Max,Min Total Cost,MinCost,Max Supply,15
+444,Two Min,Two Max,All Penalties,MinCost,Min Allocation,15
+445,Two Max,Two Max,Max Total Cost,MinCost,Index,15
+446,Two Max,Two Max,Max Total Cost,MinCost,Max Supply,15
+447,Two Max,Two Max,Max Total Cost,MinCost,Min Supply,15
+448,Two Max,Two Max,Max Total Cost,MinCost,Min Demand,15
+449,Two Max,Two Max,Min Total Cost,MinCost,Max Allocation,15
+450,Two Max,Two Max,Max Total Cost,MinCost,Min Supply and Demand,15
+451,Two Max,Two Max,Min Total Cost,MinCost,Max Cost Allocation,15
+452,Two Min,Min Penalty,Max Total Cost,MinCA,Max Allocation,10
+453,Two Min,Min Penalty,Max Total Cost,MinCA,Min Top-Bottom Sum,10
+454,Two Min,Min Penalty,Max Total Cost,MinCA,Min Cost Allocation,10
+455,Two Min,Min Penalty,Max Total Cost,MinCA,Max Top-Bottom Sum,10
+456,Two Min,Min Penalty,Max Total Cost,MinCA,Min Supply and Demand,10
+457,Two Min,Min Penalty,Max Total Cost,MinCA,Max Supply and Demand,10
+458,Two Min,Min Penalty,Max Total Cost,MinCA,Max Supply Demand Mult,10
+459,Two Min,Min Penalty,Max Total Cost,MinCA,Min Allocation,10
+460,Two Max,Min Penalty,Max Total Cost,MinCost,Min Supply Demand Mult,10
+461,Two Min,Min Penalty,Max Total Cost,MinCA,Max Cost Allocation,10
+462,Two Min,Two Max,Min Total Cost,MinCA,Max Supply,10
+463,Two Min,Two Max,Min Total Cost,MinCost,Min Allocation,10
+464,Two Min,Two Max,Min Total Cost,MinCost,Max Top-Bottom Sum,10
+465,Two Min,Two Max,Min Total Cost,MinCost,Min Supply and Demand,10
+466,Two Min,Two Max,Min Total Cost,MinCost,Min Demand,10
+467,Two Min,Two Max,Min Total Cost,MinCost,Max Demand,10
+468,Two Min,Two Max,Min Total Cost,MinCost,Min Cost Allocation,10
+469,Two Min,Two Max,Min Total Cost,MinCost,Min Supply,10
+470,Two Min,Two Max,Min Total Cost,MinCost,Min Supply Demand Mult,10
+471,Two Min,Two Max,Min Total Cost,MinCA,Index,10
+472,Two Min,Two Max,Min Total Cost,MinCost,Index,10
+473,Two Min,Min Penalty,All Penalties,MinCA,Index,10
+474,Min Max,Two Max,Min Total Cost,MinCA,Min Supply and Demand,10
+475,Two Min,Min Penalty,Max Total Cost,MinCA,Min Demand,10
+476,Min Max,Two Max,Min Total Cost,MinCA,Max Top-Bottom Sum,10
+477,Min Max,Two Max,Min Total Cost,MinCA,Min Allocation,10
+478,Min Max,Two Max,Min Total Cost,MinCA,Min Cost Allocation,10
+479,Min Max,Two Max,Min Total Cost,MinCA,Min Supply Demand Mult,10
+480,Two Min,Two Max,Min Total Cost,MinCA,Min Supply,10
+481,Two Max,Min Penalty,All Penalties,MinCA,Index,10
+482,Two Min,Two Max,Min Total Cost,MinCA,Min Demand,10
+483,Two Min,Min Penalty,Max Total Cost,MinCost,Min Supply Demand Mult,10
+484,Two Min,Min Penalty,Max Total Cost,MinCA,Index,10
+485,Two Min,Min Penalty,Max Total Cost,MinCA,Max Supply,10
+486,Two Min,Min Penalty,Max Total Cost,MinCA,Min Supply,10
+487,Two Min,Min Penalty,Max Total Cost,MinCA,Max Demand,10
+488,Two Min,Min Penalty,Min Total Cost,MinCA,Max Demand,10
+489,Min Max,Two Max,Min Total Cost,MinCost,Max Top-Bottom Sum,10
+490,Min Max,Two Max,Min Total Cost,MinCost,Min Supply and Demand,10
+491,Min Max,Two Max,Min Total Cost,MinCost,Min Demand,10
+492,Two Min,Two Max,All Penalties,MinCost,Min Supply,10
+493,Two Min,Two Max,All Penalties,MinCost,Min Demand,10
+494,Two Min,Two Max,All Penalties,MinCost,Max Supply and Demand,10
+495,Two Min,Min Penalty,Min Total Cost,MinCost,Max Allocation,10
+496,Two Min,Two Max,All Penalties,MinCost,Min Supply and Demand,10
+497,Two Min,Min Penalty,Min Total Cost,MinCost,Max Cost Allocation,10
+498,Two Min,Min Penalty,Min Total Cost,MinCost,Max Supply Demand Mult,10
+499,Min Max,Two Max,Min Total Cost,MinCost,Max Allocation,10
+500,Two Min,Min Penalty,Min Total Cost,MinCA,Max Supply and Demand,10
+501,Two Min,Min Penalty,Min Total Cost,MinCA,Min Top-Bottom Sum,10
+502,Two Min,Min Penalty,Min Total Cost,MinCA,Max Allocation,10
+503,Min Max,Two Max,Min Total Cost,MinCost,Max Demand,10
+504,Min Max,Two Max,Min Total Cost,MinCost,Min Supply,10
+505,Min Max,Two Max,Min Total Cost,MinCost,Max Supply,10
+506,Min Max,Two Max,Min Total Cost,MinCost,Index,10
+507,Two Min,Two Max,Min Total Cost,MinCA,Min Supply Demand Mult,10
+508,Two Min,Two Max,Min Total Cost,MinCA,Min Cost Allocation,10
+509,Two Min,Two Max,Min Total Cost,MinCA,Min Allocation,10
+510,Min Max,Two Max,Min Total Cost,MinCA,Max Supply and Demand,10
+511,Two Min,Two Max,Min Total Cost,MinCA,Min Supply and Demand,10
+512,Two Min,Two Max,Min Total Cost,MinCA,Max Top-Bottom Sum,10
+513,Two Min,Min Penalty,All Penalties,MinCA,Min Supply,10
+514,Two Min,Min Penalty,All Penalties,MinCA,Min Demand,10
+515,Two Min,Min Penalty,All Penalties,MinCA,Max Supply and Demand,10
+516,Two Min,Min Penalty,All Penalties,MinCA,Min Supply and Demand,10
+517,Two Min,Min Penalty,All Penalties,MinCA,Min Allocation,10
+518,Two Min,Min Penalty,All Penalties,MinCA,Min Cost Allocation,10
+519,Two Min,Min Penalty,All Penalties,MinCA,Max Supply Demand Mult,10
+520,Two Min,Min Penalty,All Penalties,MinCA,Min Supply Demand Mult,10
+521,Two Min,Two Max,Min Total Cost,MinCA,Max Supply and Demand,10
+522,Min Max,Two Max,Min Total Cost,MinCA,Min Demand,10
+523,Min Max,Two Max,Min Total Cost,MinCA,Min Supply,10
+524,Min Max,Two Max,Min Total Cost,MinCA,Max Supply,10
+525,Min Max,Two Max,Min Total Cost,MinCA,Index,10
+526,Min Max,Two Max,Min Total Cost,MinCost,Min Supply Demand Mult,10
+527,Min Max,Two Max,Min Total Cost,MinCost,Max Supply Demand Mult,10
+528,Min Max,Two Max,Min Total Cost,MinCost,Min Cost Allocation,10
+529,Min Max,Two Max,Min Total Cost,MinCost,Max Cost Allocation,10
+530,Min Max,Two Max,Min Total Cost,MinCost,Min Allocation,10
+531,Two Max,Two Max,Min Total Cost,MinCost,Min Supply and Demand,10
+532,Two Max,Two Max,Min Total Cost,MinCA,Index,10
+533,Two Max,Two Max,Min Total Cost,MinCost,Min Supply Demand Mult,10
+534,Two Max,Two Max,Min Total Cost,MinCost,Min Cost Allocation,10
+535,Two Max,Two Max,Min Total Cost,MinCost,Min Allocation,10
+536,Two Max,Min Penalty,Max Total Cost,MinCA,Min Supply Demand Mult,10
+537,Two Min,Two Max,All Penalties,MinCost,Index,10
+538,Min Max,Min Penalty,All Penalties,MinCA,Max Supply,10
+539,Min Max,Min Penalty,All Penalties,MinCA,Max Cost Allocation,10
+540,Two Max,Two Max,Min Total Cost,MinCost,Max Top-Bottom Sum,10
+541,Two Max,Min Penalty,All Penalties,MinCA,Min Supply Demand Mult,10
+542,Min Max,Min Penalty,All Penalties,MinCA,Max Supply Demand Mult,10
+543,Two Max,Two Max,Min Total Cost,MinCA,Max Supply,10
+544,Two Max,Min Penalty,All Penalties,MinCA,Min Cost Allocation,10
+545,Two Max,Min Penalty,All Penalties,MinCA,Max Cost Allocation,10
+546,Two Max,Two Max,Min Total Cost,MinCost,Min Demand,10
+547,Two Max,Two Max,Min Total Cost,MinCost,Max Demand,10
+548,Two Max,Two Max,Min Total Cost,MinCost,Min Supply,10
+549,Two Max,Min Penalty,All Penalties,MinCA,Min Allocation,10
+550,Two Max,Two Max,Min Total Cost,MinCost,Index,10
+551,Two Max,Min Penalty,All Penalties,MinCA,Max Allocation,10
+552,Two Max,Min Penalty,All Penalties,MinCA,Min Top-Bottom Sum,10
+553,Min Max,Min Penalty,All Penalties,MinCA,Min Supply Demand Mult,10
+554,Two Max,Min Penalty,All Penalties,MinCA,Min Supply and Demand,10
+555,Two Max,Min Penalty,All Penalties,MinCA,Min Demand,10
+556,Two Max,Min Penalty,All Penalties,MinCA,Max Demand,10
+557,Two Min,Min Penalty,Min Total Cost,MinCA,Max Cost Allocation,10
+558,Two Max,Min Penalty,All Penalties,MinCA,Min Supply,10
+559,Two Max,Two Max,All Penalties,MinCost,Min Top-Bottom Sum,10
+560,Two Max,Two Max,All Penalties,MinCost,Max Supply and Demand,10
+561,Two Max,Two Max,All Penalties,MinCost,Max Demand,10
+562,Two Max,Two Max,Min Total Cost,MinCA,Min Supply Demand Mult,10
+563,Min Max,Min Penalty,All Penalties,MinCA,Min Top-Bottom Sum,10
+564,Two Max,Two Max,Min Total Cost,MinCA,Min Cost Allocation,10
+565,Min Max,Two Max,All Penalties,MinCost,Max Demand,10
+566,Two Max,Two Max,Min Total Cost,MinCA,Min Allocation,10
+567,Min Max,Min Penalty,All Penalties,MinCA,Max Allocation,10
+568,Min Max,Two Max,All Penalties,MinCost,Max Supply and Demand,10
+569,Two Max,Two Max,Min Total Cost,MinCA,Max Top-Bottom Sum,10
+570,Two Max,Two Max,Min Total Cost,MinCA,Min Supply and Demand,10
+571,Two Min,Min Penalty,Min Total Cost,MinCA,Max Supply Demand Mult,10
+572,Two Max,Two Max,Min Total Cost,MinCA,Max Supply and Demand,10
+573,Min Max,Min Penalty,All Penalties,MinCA,Min Supply,10
+574,Two Max,Two Max,Min Total Cost,MinCA,Min Demand,10
+575,Min Max,Two Max,All Penalties,MinCost,Min Top-Bottom Sum,10
+576,Two Max,Two Max,Min Total Cost,MinCA,Min Supply,10
+577,Min Max,Min Penalty,All Penalties,MinCA,Max Top-Bottom Sum,5
+578,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Allocation,5
+579,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Top-Bottom Sum,5
+580,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Top-Bottom Sum,5
+581,Min Max,Min Penalty,All Penalties,MinCA,Min Cost Allocation,5
+582,Min Max,Min Penalty,All Penalties,MinCA,Min Allocation,5
+583,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Cost Allocation,5
+584,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Supply and Demand,5
+585,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Supply and Demand,5
+586,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Demand,5
+587,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Demand,5
+588,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Supply,5
+589,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Supply,5
+590,Two Max,Min Penalty,Min Total Cost,MaxSC,Index,5
+591,Min Max,Two Max,Min Total Cost,MinCA,Max Demand,5
+592,Two Max,Min Penalty,Max Total Cost,MinCA,Max Supply Demand Mult,5
+593,Two Max,Min Penalty,Max Total Cost,MinCA,Min Cost Allocation,5
+594,Two Max,Min Penalty,Max Total Cost,MinCA,Max Cost Allocation,5
+595,Two Max,Min Penalty,Max Total Cost,MinCA,Min Allocation,5
+596,Two Min,Min Penalty,All Penalties,MinCA,Max Top-Bottom Sum,5
+597,Two Max,Min Penalty,Max Total Cost,MinCA,Max Allocation,5
+598,Two Max,Min Penalty,Min Total Cost,MinCA,Min Supply Demand Mult,5
+599,Two Max,Min Penalty,Min Total Cost,MinCA,Max Supply Demand Mult,5
+600,Two Min,Two Max,Min Total Cost,MinCA,Max Supply Demand Mult,5
+601,Two Max,Two Max,Min Total Cost,MinCost,Max Supply and Demand,5
+602,Two Min,Min Penalty,Min Total Cost,MinCA,Index,5
+603,Two Min,Min Penalty,Min Total Cost,MinCA,Max Supply,5
+604,Two Min,Min Penalty,Min Total Cost,MinCA,Min Supply,5
+605,Two Min,Min Penalty,Min Total Cost,MinCA,Min Demand,5
+606,Two Max,Two Max,Min Total Cost,MinCost,Min Top-Bottom Sum,5
+607,Two Min,Min Penalty,Min Total Cost,MinCA,Min Supply and Demand,5
+608,Two Min,Min Penalty,Min Total Cost,MinCA,Max Top-Bottom Sum,5
+609,Two Max,Two Max,Min Total Cost,MinCA,Max Demand,5
+610,Min Max,Min Penalty,All Penalties,MinCost,Max Supply,5
+611,Two Min,Two Max,Min Total Cost,MinCA,Max Cost Allocation,5
+612,Two Max,Two Max,Min Total Cost,MinCA,Min Top-Bottom Sum,5
+613,Two Max,Two Max,Min Total Cost,MinCA,Max Allocation,5
+614,Two Max,Two Max,Min Total Cost,MinCA,Max Cost Allocation,5
+615,Two Max,Two Max,Min Total Cost,MinCA,Max Supply Demand Mult,5
+616,Two Min,Min Penalty,Min Total Cost,MinCA,Min Allocation,5
+617,Two Min,Min Penalty,Min Total Cost,MinCA,Min Cost Allocation,5
+618,Two Min,Two Max,All Penalties,MinCost,Min Top-Bottom Sum,5
+619,Two Max,Min Penalty,Min Total Cost,MinCost,Min Demand,5
+620,Two Min,Min Penalty,Min Total Cost,MinCA,Min Supply Demand Mult,5
+621,Min Max,Min Penalty,All Penalties,MinCA,Max Supply and Demand,5
+622,Min Max,Min Penalty,All Penalties,MinCA,Min Demand,5
+623,Min Max,Min Penalty,All Penalties,MinCA,Max Demand,5
+624,Min Max,Two Max,Min Total Cost,MinCost,Min Top-Bottom Sum,5
+625,Min Max,Two Max,Min Total Cost,MinCost,Max Supply and Demand,5
+626,Min Max,Min Penalty,All Penalties,MinCA,Index,5
+627,Two Min,Two Max,Min Total Cost,MinCA,Max Allocation,5
+628,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Allocation,5
+629,Min Max,Min Penalty,All Penalties,MinCost,Max Supply Demand Mult,5
+630,Min Max,Min Penalty,All Penalties,MinCA,Min Supply and Demand,5
+631,Min Max,Min Penalty,All Penalties,MinCost,Max Cost Allocation,5
+632,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Cost Allocation,5
+633,Two Min,Min Penalty,Min Total Cost,MinCost,Max Supply,5
+634,Min Max,Min Penalty,All Penalties,MinCost,Max Allocation,5
+635,Two Min,Min Penalty,Min Total Cost,MinCost,Max Demand,5
+636,Two Max,Min Penalty,Min Total Cost,MaxSC,Max Supply Demand Mult,5
+637,Two Min,Min Penalty,Min Total Cost,MinCost,Max Supply and Demand,5
+638,Two Max,Min Penalty,Min Total Cost,MaxSC,Min Supply Demand Mult,5
+639,Two Min,Min Penalty,Min Total Cost,MinCost,Min Top-Bottom Sum,5
+640,Two Min,Min Penalty,All Penalties,MinCost,Max Allocation,5
+641,Two Max,Min Penalty,Min Total Cost,MinCost,Min Supply and Demand,5
+642,Min Max,Two Max,Min Total Cost,MinCA,Max Supply Demand Mult,5
+643,Two Max,Min Penalty,Max Total Cost,MinCA,Max Supply,5
+644,Two Min,Min Penalty,All Penalties,MinCost,Max Demand,5
+645,Min Max,Two Max,Min Total Cost,MinCA,Max Cost Allocation,5
+646,Min Max,Min Penalty,Max Total Cost,MinCost,Min Top-Bottom Sum,5
+647,Two Min,Min Penalty,All Penalties,MinCost,Max Supply and Demand,5
+648,Two Max,Min Penalty,Min Total Cost,MinCost,Min Top-Bottom Sum,5
+649,Min Max,Min Penalty,Min Total Cost,MinCost,Max Supply,5
+650,Min Max,Two Max,Min Total Cost,MinCA,Max Allocation,5
+651,Two Min,Min Penalty,All Penalties,MinCost,Min Top-Bottom Sum,5
+652,Min Max,Min Penalty,Max Total Cost,MinCost,Min Supply Demand Mult,5
+653,Min Max,Min Penalty,Max Total Cost,MinCost,Min Supply,5
+654,Min Max,Two Max,Min Total Cost,MinCA,Min Top-Bottom Sum,5
+655,Two Min,Min Penalty,All Penalties,MinCost,Max Cost Allocation,5
+656,Two Max,Min Penalty,Min Total Cost,MinCost,Max Allocation,5
+657,Two Min,Min Penalty,All Penalties,MinCost,Max Supply Demand Mult,5
+658,Two Max,Min Penalty,Min Total Cost,MinCost,Min Allocation,5
+659,Two Max,Min Penalty,Min Total Cost,MinCost,Max Cost Allocation,5
+660,Two Min,Min Penalty,All Penalties,MinCA,Max Supply,5
+661,Two Max,Min Penalty,Min Total Cost,MinCost,Min Cost Allocation,5
+662,Two Max,Min Penalty,Max Total Cost,MinCA,Min Supply,5
+663,Min Max,Min Penalty,Max Total Cost,MinCA,Min Supply Demand Mult,5
+664,Two Max,Min Penalty,Max Total Cost,MinCA,Index,5
+665,Two Max,Min Penalty,Min Total Cost,MinCost,Min Supply,5
+666,Two Max,Min Penalty,Min Total Cost,MinCost,Max Supply,5
+667,Two Max,Min Penalty,Min Total Cost,MinCost,Index,5
+668,Two Max,Min Penalty,Max Total Cost,MinCost,Max Supply Demand Mult,5
+669,Two Max,Min Penalty,Max Total Cost,MinCost,Min Cost Allocation,5
+670,Two Max,Min Penalty,Max Total Cost,MinCost,Max Cost Allocation,5
+671,Two Max,Min Penalty,Max Total Cost,MinCost,Min Allocation,5
+672,Two Max,Min Penalty,Max Total Cost,MinCost,Max Allocation,5
+673,Two Max,Min Penalty,All Penalties,MinCA,Max Supply,5
+674,Two Max,Min Penalty,Max Total Cost,MinCost,Min Top-Bottom Sum,5
+675,Two Max,Min Penalty,Min Total Cost,MinCA,Max Cost Allocation,5
+676,Two Max,Min Penalty,Max Total Cost,MinCost,Max Top-Bottom Sum,5
+677,Two Max,Min Penalty,Max Total Cost,MinCost,Min Supply and Demand,5
+678,Two Max,Min Penalty,Max Total Cost,MinCost,Max Supply and Demand,5
+679,Two Max,Min Penalty,Max Total Cost,MinCost,Min Demand,5
+680,Two Max,Min Penalty,Max Total Cost,MinCost,Max Demand,5
+681,Min Max,Min Penalty,Max Total Cost,MinCA,Min Top-Bottom Sum,5
+682,Two Max,Min Penalty,Max Total Cost,MinCost,Min Supply,5
+683,Two Max,Min Penalty,Max Total Cost,MinCost,Max Supply,5
+684,Two Max,Min Penalty,Max Total Cost,MinCost,Index,5
+685,Min Max,Min Penalty,Max Total Cost,MinCA,Min Supply,5
+686,Two Max,Min Penalty,Max Total Cost,MinCA,Min Demand,5
+687,Two Min,Min Penalty,Max Total Cost,MinCost,Max Top-Bottom Sum,5
+688,Two Min,Min Penalty,Max Total Cost,MinCost,Min Top-Bottom Sum,5
+689,Two Min,Min Penalty,Max Total Cost,MinCost,Max Allocation,5
+690,Two Min,Min Penalty,Max Total Cost,MinCost,Min Allocation,5
+691,Two Min,Min Penalty,Max Total Cost,MinCost,Max Cost Allocation,5
+692,Two Min,Min Penalty,Max Total Cost,MinCost,Min Cost Allocation,5
+693,Two Min,Min Penalty,Max Total Cost,MinCost,Max Supply Demand Mult,5
+694,Two Max,Min Penalty,All Penalties,MinCA,Max Top-Bottom Sum,5
+695,Two Max,Min Penalty,All Penalties,MinCA,Max Supply Demand Mult,5
+696,Two Max,Min Penalty,Max Total Cost,MinCA,Max Demand,5
+697,Two Max,Min Penalty,Min Total Cost,MinCA,Index,5
+698,Two Max,Min Penalty,Max Total Cost,MinCA,Max Supply and Demand,5
+699,Two Max,Min Penalty,Max Total Cost,MinCA,Min Supply and Demand,5
+700,Two Max,Min Penalty,Max Total Cost,MinCA,Max Top-Bottom Sum,5
+701,Two Max,Min Penalty,Max Total Cost,MinCA,Min Top-Bottom Sum,5
+702,Min Max,Min Penalty,Min Total Cost,MinCost,Max Allocation,5
+703,Min Max,Min Penalty,Min Total Cost,MinCost,Max Cost Allocation,5
+704,Min Max,Min Penalty,Min Total Cost,MinCost,Max Supply Demand Mult,5
+705,Two Max,Min Penalty,Min Total Cost,MinCA,Min Allocation,5
+706,Two Min,Two Max,Min Total Cost,MinCA,Min Top-Bottom Sum,5
+707,Two Max,Min Penalty,Min Total Cost,MinCA,Min Cost Allocation,5
+708,Two Max,Min Penalty,Min Total Cost,MinCA,Max Top-Bottom Sum,5
+709,Two Max,Min Penalty,Min Total Cost,MinCost,Min Supply Demand Mult,5
+710,Two Max,Min Penalty,Min Total Cost,MinCA,Max Supply,5
+711,Two Min,Two Max,Min Total Cost,MinCost,Max Supply and Demand,5
+712,Two Max,Min Penalty,Min Total Cost,MinCA,Min Supply,5
+713,Two Max,Min Penalty,Min Total Cost,MinCA,Max Demand,5
+714,Two Min,Two Max,Min Total Cost,MinCost,Min Top-Bottom Sum,5
+715,Two Max,Min Penalty,Min Total Cost,MinCA,Min Demand,5
+716,Two Max,Min Penalty,Min Total Cost,MinCA,Max Supply and Demand,5
+717,Two Max,Min Penalty,Min Total Cost,MinCA,Min Supply and Demand,5
+718,Two Min,Min Penalty,Max Total Cost,MinCost,Min Supply and Demand,5
+719,Two Max,Min Penalty,Min Total Cost,MinCA,Min Top-Bottom Sum,5
+720,Two Max,Min Penalty,Min Total Cost,MinCA,Max Allocation,5
+721,Two Max,Min Penalty,All Penalties,MinCA,Max Supply and Demand,5
+722,Two Min,Min Penalty,Max Total Cost,MinCost,Max Supply and Demand,5
+723,Two Min,Min Penalty,Max Total Cost,MinCost,Min Demand,5
+724,Two Min,Min Penalty,Max Total Cost,MinCost,Max Demand,5
+725,Two Min,Min Penalty,Max Total Cost,MinCost,Min Supply,5
+726,Two Min,Min Penalty,Max Total Cost,MinCost,Max Supply,5
+727,Two Min,Min Penalty,Max Total Cost,MinCost,Index,5
+728,Two Min,Two Max,Min Total Cost,MinCA,Max Demand,5
+729,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Supply and Demand,0
+730,Two Min,Max Penalty,Min Total Cost,MinSC,Max Cost Allocation,0
+731,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+732,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+733,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Allocation,0
+734,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Allocation,0
+735,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Cost Allocation,0
+736,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Cost Allocation,0
+737,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+738,Min Max,Two Max,Max Total Cost,MaxSC,Max Supply and Demand,0
+739,Min Max,Two Max,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+740,Min Max,Two Max,Max Total Cost,MinSC,Max Allocation,0
+741,Min Max,Two Max,Max Total Cost,MinSC,Min Allocation,0
+742,Min Max,Two Max,Max Total Cost,MinSC,Max Cost Allocation,0
+743,Min Max,Two Max,Max Total Cost,MinSC,Min Cost Allocation,0
+744,Min Max,Two Max,Max Total Cost,MinSC,Max Supply Demand Mult,0
+745,Min Max,Two Max,Max Total Cost,MinSC,Min Supply Demand Mult,0
+746,Min Max,Two Max,Max Total Cost,MaxSC,Index,0
+747,Min Max,Two Max,Max Total Cost,MaxSC,Max Supply,0
+748,Min Max,Two Max,Max Total Cost,MaxSC,Min Supply,0
+749,Min Max,Two Max,Max Total Cost,MaxSC,Max Demand,0
+750,Min Max,Two Max,Max Total Cost,MaxSC,Min Demand,0
+751,Min Max,Two Max,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+752,Min Max,Two Max,Max Total Cost,MaxSC,Min Supply and Demand,0
+753,Min Max,Two Max,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+754,Min Max,Two Max,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+755,Min Max,Two Max,Max Total Cost,MaxSC,Max Allocation,0
+756,Min Max,Two Max,Max Total Cost,MaxSC,Min Allocation,0
+757,Min Max,Two Max,Max Total Cost,MaxSC,Max Cost Allocation,0
+758,Min Max,Two Max,Max Total Cost,MaxSC,Min Cost Allocation,0
+759,Min Max,Two Max,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+760,Min Max,Two Max,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+761,Min Max,Two Max,Min Total Cost,MinSC,Min Cost Allocation,0
+762,Min Max,Two Max,Min Total Cost,MinSC,Max Cost Allocation,0
+763,Min Max,Two Max,Min Total Cost,MaxSC,Max Demand,0
+764,Min Max,Two Max,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+765,Min Max,Two Max,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+766,Min Max,Two Max,Min Total Cost,MaxSC,Min Cost Allocation,0
+767,Min Max,Two Max,Min Total Cost,MaxSC,Max Cost Allocation,0
+768,Min Max,Two Max,Min Total Cost,MaxSC,Min Allocation,0
+769,Min Max,Two Max,Min Total Cost,MaxSC,Max Allocation,0
+770,Min Max,Two Max,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+771,Min Max,Two Max,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+772,Min Max,Two Max,Min Total Cost,MaxSC,Min Supply and Demand,0
+773,Min Max,Two Max,Min Total Cost,MaxSC,Max Supply and Demand,0
+774,Min Max,Two Max,Min Total Cost,MaxSC,Min Demand,0
+775,Min Max,Two Max,Min Total Cost,MinSC,Min Allocation,0
+776,Min Max,Two Max,Min Total Cost,MaxSC,Min Supply,0
+777,Min Max,Two Max,Min Total Cost,MaxSC,Max Supply,0
+778,Min Max,Two Max,Min Total Cost,MaxSC,Index,0
+779,Min Max,Two Max,Min Total Cost,MinSC,Min Supply Demand Mult,0
+780,Min Max,Two Max,Min Total Cost,MinSC,Max Supply Demand Mult,0
+781,Min Max,Two Max,Max Total Cost,MinSC,Max Supply,0
+782,Min Max,Two Max,Max Total Cost,MinSC,Min Supply,0
+783,Min Max,Two Max,Max Total Cost,MinSC,Max Demand,0
+784,Min Max,Two Max,Max Total Cost,MinSC,Min Demand,0
+785,Min Max,Two Max,Max Total Cost,MinSC,Max Supply and Demand,0
+786,Min Max,Two Max,Max Total Cost,MinSC,Min Supply and Demand,0
+787,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Cost Allocation,0
+788,Two Min,Max Penalty,Min Total Cost,MinSC,Min Supply Demand Mult,0
+789,Two Min,Max Penalty,Min Total Cost,MaxSC,Index,0
+790,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Supply,0
+791,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Supply,0
+792,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Demand,0
+793,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Demand,0
+794,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Supply and Demand,0
+795,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Supply and Demand,0
+796,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+797,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+798,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Allocation,0
+799,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Allocation,0
+800,Two Min,Max Penalty,Min Total Cost,MinSC,Max Supply Demand Mult,0
+801,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Cost Allocation,0
+802,Two Min,Max Penalty,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+803,Two Min,Max Penalty,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+804,Two Min,Min Penalty,Min Total Cost,MinCost,Index,0
+805,Two Min,Min Penalty,Min Total Cost,MinCost,Min Supply,0
+806,Two Min,Min Penalty,Min Total Cost,MinCost,Min Demand,0
+807,Two Min,Min Penalty,Min Total Cost,MinCost,Min Supply and Demand,0
+808,Two Min,Min Penalty,Min Total Cost,MinCost,Max Top-Bottom Sum,0
+809,Two Min,Min Penalty,Min Total Cost,MinCost,Min Allocation,0
+810,Two Min,Min Penalty,Min Total Cost,MinCost,Min Cost Allocation,0
+811,Two Min,Min Penalty,Min Total Cost,MinCost,Min Supply Demand Mult,0
+812,Two Min,Max Penalty,Min Total Cost,MinSC,Max Supply,0
+813,Min Max,Two Max,Min Total Cost,MinSC,Max Allocation,0
+814,Min Max,Two Max,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+815,Min Max,Two Max,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+816,Min Max,Two Max,Min Total Cost,MinSC,Min Supply and Demand,0
+817,Min Max,Two Max,Min Total Cost,MinSC,Max Supply and Demand,0
+818,Min Max,Two Max,Min Total Cost,MinSC,Min Demand,0
+819,Min Max,Two Max,Min Total Cost,MinSC,Max Demand,0
+820,Min Max,Two Max,Min Total Cost,MinSC,Min Supply,0
+821,Min Max,Two Max,Min Total Cost,MinSC,Max Supply,0
+822,Min Max,Two Max,Min Total Cost,MinSC,Index,0
+823,Two Min,Max Penalty,Min Total Cost,MinSC,Index,0
+824,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+825,Two Min,Max Penalty,Min Total Cost,MinSC,Min Supply,0
+826,Two Min,Max Penalty,Min Total Cost,MinSC,Max Demand,0
+827,Two Min,Max Penalty,Min Total Cost,MinSC,Min Demand,0
+828,Two Min,Max Penalty,Min Total Cost,MinSC,Max Supply and Demand,0
+829,Two Min,Max Penalty,Min Total Cost,MinSC,Min Supply and Demand,0
+830,Two Min,Max Penalty,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+831,Two Min,Max Penalty,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+832,Two Min,Max Penalty,Min Total Cost,MinSC,Max Allocation,0
+833,Two Min,Max Penalty,Min Total Cost,MinSC,Min Allocation,0
+834,Two Min,Two Max,Min Total Cost,MaxSC,Min Supply,0
+835,Two Min,Max Penalty,Min Total Cost,MinSC,Min Cost Allocation,0
+836,Min Max,Max Penalty,Min Total Cost,MinSC,Max Supply Demand Mult,0
+837,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Cost Allocation,0
+838,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Allocation,0
+839,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Allocation,0
+840,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+841,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+842,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Supply and Demand,0
+843,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Supply and Demand,0
+844,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Demand,0
+845,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Demand,0
+846,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Supply,0
+847,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Supply,0
+848,Min Max,Max Penalty,Min Total Cost,MaxSC,Index,0
+849,Min Max,Max Penalty,Min Total Cost,MinSC,Min Supply Demand Mult,0
+850,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Cost Allocation,0
+851,Min Max,Max Penalty,Min Total Cost,MinSC,Min Cost Allocation,0
+852,Min Max,Max Penalty,Min Total Cost,MinSC,Max Cost Allocation,0
+853,Min Max,Max Penalty,Min Total Cost,MinSC,Min Allocation,0
+854,Min Max,Max Penalty,Min Total Cost,MinSC,Max Allocation,0
+855,Min Max,Max Penalty,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+856,Min Max,Max Penalty,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+857,Min Max,Max Penalty,Min Total Cost,MinSC,Min Supply and Demand,0
+858,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Allocation,0
+859,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Cost Allocation,0
+860,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Cost Allocation,0
+861,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+862,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+863,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Supply,0
+864,Two Max,Max Penalty,Min Total Cost,MinSC,Min Demand,0
+865,Two Max,Max Penalty,Min Total Cost,MinSC,Max Supply and Demand,0
+866,Two Max,Max Penalty,Min Total Cost,MinSC,Min Supply and Demand,0
+867,Two Max,Max Penalty,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+868,Two Max,Max Penalty,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+869,Two Max,Max Penalty,Min Total Cost,MinSC,Max Allocation,0
+870,Two Max,Max Penalty,Min Total Cost,MinSC,Min Allocation,0
+871,Two Max,Max Penalty,Min Total Cost,MinSC,Max Cost Allocation,0
+872,Two Max,Max Penalty,Min Total Cost,MinSC,Min Cost Allocation,0
+873,Two Max,Max Penalty,Min Total Cost,MinSC,Max Supply Demand Mult,0
+874,Two Max,Max Penalty,Min Total Cost,MinSC,Min Supply Demand Mult,0
+875,Two Max,Max Penalty,Min Total Cost,MaxSC,Index,0
+876,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Supply,0
+877,Two Max,Min Penalty,Min Total Cost,MinCost,Max Demand,0
+878,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Demand,0
+879,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Demand,0
+880,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Supply and Demand,0
+881,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Supply and Demand,0
+882,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+883,Two Max,Max Penalty,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+884,Two Max,Max Penalty,Min Total Cost,MaxSC,Max Allocation,0
+885,Min Max,Min Penalty,Min Total Cost,MinCost,Max Demand,0
+886,Min Max,Min Penalty,Min Total Cost,MinCost,Min Supply,0
+887,Min Max,Min Penalty,Min Total Cost,MinCost,Index,0
+888,Min Max,Max Penalty,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+889,Min Max,Max Penalty,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+890,Two Max,Two Max,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+891,Two Max,Two Max,Min Total Cost,MinSC,Max Demand,0
+892,Two Max,Two Max,Min Total Cost,MinSC,Min Demand,0
+893,Two Max,Two Max,Min Total Cost,MinSC,Max Supply and Demand,0
+894,Two Max,Two Max,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+895,Two Max,Two Max,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+896,Two Max,Two Max,Min Total Cost,MaxSC,Min Cost Allocation,0
+897,Two Max,Two Max,Min Total Cost,MaxSC,Max Cost Allocation,0
+898,Two Max,Two Max,Min Total Cost,MaxSC,Min Allocation,0
+899,Two Max,Two Max,Min Total Cost,MaxSC,Max Allocation,0
+900,Two Max,Two Max,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+901,Two Max,Two Max,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+902,Two Max,Two Max,Min Total Cost,MaxSC,Min Supply and Demand,0
+903,Two Max,Two Max,Min Total Cost,MinSC,Min Supply and Demand,0
+904,Two Max,Two Max,Min Total Cost,MinSC,Min Supply,0
+905,Two Max,Two Max,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+906,Two Max,Two Max,Min Total Cost,MinSC,Max Allocation,0
+907,Two Max,Two Max,Min Total Cost,MinSC,Min Allocation,0
+908,Two Max,Two Max,Min Total Cost,MinSC,Max Cost Allocation,0
+909,Two Max,Two Max,Min Total Cost,MinSC,Min Cost Allocation,0
+910,Two Max,Two Max,Min Total Cost,MinSC,Max Supply Demand Mult,0
+911,Two Max,Two Max,Min Total Cost,MinSC,Min Supply Demand Mult,0
+912,Two Max,Two Max,Min Total Cost,MaxSC,Index,0
+913,Two Max,Two Max,Min Total Cost,MaxSC,Max Supply,0
+914,Two Max,Two Max,Min Total Cost,MaxSC,Min Supply,0
+915,Two Max,Two Max,Min Total Cost,MaxSC,Max Demand,0
+916,Two Max,Two Max,Min Total Cost,MaxSC,Min Demand,0
+917,Two Max,Min Penalty,Min Total Cost,MinSC,Min Demand,0
+918,Two Max,Min Penalty,Min Total Cost,MinCost,Max Supply and Demand,0
+919,Two Max,Min Penalty,Min Total Cost,MinCost,Max Top-Bottom Sum,0
+920,Two Max,Min Penalty,Min Total Cost,MinCost,Max Supply Demand Mult,0
+921,Min Max,Max Penalty,Min Total Cost,MinSC,Max Supply and Demand,0
+922,Min Max,Max Penalty,Min Total Cost,MinSC,Min Demand,0
+923,Min Max,Max Penalty,Min Total Cost,MinSC,Max Demand,0
+924,Min Max,Max Penalty,Min Total Cost,MinSC,Min Supply,0
+925,Min Max,Max Penalty,Min Total Cost,MinSC,Max Supply,0
+926,Min Max,Max Penalty,Min Total Cost,MinSC,Index,0
+927,Two Max,Min Penalty,Min Total Cost,MinSC,Index,0
+928,Two Max,Min Penalty,Min Total Cost,MinSC,Max Supply,0
+929,Two Max,Min Penalty,Min Total Cost,MinSC,Min Supply,0
+930,Two Max,Min Penalty,Min Total Cost,MinSC,Max Demand,0
+931,Two Max,Max Penalty,Min Total Cost,MinSC,Max Demand,0
+932,Two Max,Min Penalty,Min Total Cost,MinSC,Max Supply and Demand,0
+933,Two Max,Min Penalty,Min Total Cost,MinSC,Min Supply and Demand,0
+934,Two Max,Min Penalty,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+935,Two Max,Min Penalty,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+936,Two Max,Min Penalty,Min Total Cost,MinSC,Max Allocation,0
+937,Two Max,Min Penalty,Min Total Cost,MinSC,Min Allocation,0
+938,Two Max,Min Penalty,Min Total Cost,MinSC,Max Cost Allocation,0
+939,Two Max,Min Penalty,Min Total Cost,MinSC,Min Cost Allocation,0
+940,Two Max,Min Penalty,Min Total Cost,MinSC,Max Supply Demand Mult,0
+941,Two Max,Min Penalty,Min Total Cost,MinSC,Min Supply Demand Mult,0
+942,Two Max,Two Max,Min Total Cost,MinSC,Index,0
+943,Two Max,Two Max,Min Total Cost,MinSC,Max Supply,0
+944,Two Min,Two Max,Min Total Cost,MinSC,Max Cost Allocation,0
+945,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+946,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+947,Two Min,Two Max,Min Total Cost,MinSC,Index,0
+948,Two Min,Two Max,Min Total Cost,MinSC,Max Supply,0
+949,Two Min,Two Max,Min Total Cost,MinSC,Min Supply,0
+950,Two Min,Two Max,Min Total Cost,MinSC,Max Demand,0
+951,Two Min,Two Max,Min Total Cost,MinSC,Min Demand,0
+952,Two Min,Two Max,Min Total Cost,MinSC,Max Supply and Demand,0
+953,Two Min,Two Max,Min Total Cost,MinSC,Min Supply and Demand,0
+954,Two Min,Two Max,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+955,Two Min,Two Max,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+956,Two Min,Two Max,Min Total Cost,MinSC,Max Allocation,0
+957,Two Min,Two Max,Min Total Cost,MinSC,Min Allocation,0
+958,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Cost Allocation,0
+959,Two Min,Two Max,Min Total Cost,MinSC,Min Cost Allocation,0
+960,Two Min,Two Max,Min Total Cost,MinSC,Max Supply Demand Mult,0
+961,Two Min,Two Max,Min Total Cost,MinSC,Min Supply Demand Mult,0
+962,Two Min,Two Max,Min Total Cost,MaxSC,Index,0
+963,Two Min,Two Max,Min Total Cost,MaxSC,Max Supply,0
+964,Two Max,Two Max,Min Total Cost,MaxSC,Max Supply and Demand,0
+965,Two Min,Two Max,Min Total Cost,MaxSC,Max Demand,0
+966,Two Min,Two Max,Min Total Cost,MaxSC,Min Demand,0
+967,Two Min,Two Max,Min Total Cost,MaxSC,Max Supply and Demand,0
+968,Two Min,Two Max,Min Total Cost,MaxSC,Min Supply and Demand,0
+969,Two Min,Two Max,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+970,Two Min,Two Max,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+971,Two Min,Min Penalty,Min Total Cost,MinSC,Min Supply Demand Mult,0
+972,Two Min,Min Penalty,Min Total Cost,MinSC,Max Supply,0
+973,Two Min,Min Penalty,Min Total Cost,MinSC,Min Supply,0
+974,Two Min,Min Penalty,Min Total Cost,MinSC,Max Demand,0
+975,Two Min,Min Penalty,Min Total Cost,MinSC,Min Demand,0
+976,Two Min,Min Penalty,Min Total Cost,MinSC,Max Supply and Demand,0
+977,Two Min,Min Penalty,Min Total Cost,MinSC,Min Supply and Demand,0
+978,Two Min,Min Penalty,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+979,Two Min,Min Penalty,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+980,Two Min,Min Penalty,Min Total Cost,MinSC,Max Allocation,0
+981,Two Min,Min Penalty,Min Total Cost,MinSC,Min Allocation,0
+982,Two Min,Min Penalty,Min Total Cost,MinSC,Max Cost Allocation,0
+983,Two Min,Min Penalty,Min Total Cost,MinSC,Min Cost Allocation,0
+984,Two Min,Min Penalty,Min Total Cost,MinSC,Max Supply Demand Mult,0
+985,Two Min,Two Max,Min Total Cost,MaxSC,Max Allocation,0
+986,Two Min,Min Penalty,Min Total Cost,MaxSC,Index,0
+987,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Supply,0
+988,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Supply,0
+989,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Demand,0
+990,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Demand,0
+991,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Supply and Demand,0
+992,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Supply and Demand,0
+993,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Top-Bottom Sum,0
+994,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Top-Bottom Sum,0
+995,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Allocation,0
+996,Two Min,Min Penalty,Min Total Cost,MaxSC,Min Allocation,0
+997,Two Min,Min Penalty,Min Total Cost,MaxSC,Max Cost Allocation,0
+998,Min Max,Min Penalty,Min Total Cost,MinCA,Max Supply,0
+999,Min Max,Min Penalty,Min Total Cost,MinCA,Min Supply Demand Mult,0
+1000,Min Max,Min Penalty,Min Total Cost,MinCA,Max Supply Demand Mult,0
+1001,Min Max,Min Penalty,Min Total Cost,MinCA,Min Cost Allocation,0
+1002,Min Max,Min Penalty,Min Total Cost,MinCA,Max Cost Allocation,0
+1003,Min Max,Min Penalty,Min Total Cost,MinCA,Min Allocation,0
+1004,Min Max,Min Penalty,Min Total Cost,MinCA,Max Allocation,0
+1005,Min Max,Min Penalty,Min Total Cost,MinCA,Min Top-Bottom Sum,0
+1006,Min Max,Min Penalty,Min Total Cost,MinCA,Max Top-Bottom Sum,0
+1007,Min Max,Min Penalty,Min Total Cost,MinCA,Min Supply and Demand,0
+1008,Min Max,Min Penalty,Min Total Cost,MinCA,Max Supply and Demand,0
+1009,Min Max,Min Penalty,Min Total Cost,MinCA,Min Demand,0
+1010,Min Max,Min Penalty,Min Total Cost,MinCA,Max Demand,0
+1011,Min Max,Min Penalty,Min Total Cost,MinCA,Min Supply,0
+1012,Min Max,Min Penalty,Min Total Cost,MinSC,Index,0
+1013,Min Max,Min Penalty,Min Total Cost,MinCA,Index,0
+1014,Min Max,Min Penalty,Min Total Cost,MinCost,Min Supply Demand Mult,0
+1015,Min Max,Min Penalty,Min Total Cost,MinCost,Min Cost Allocation,0
+1016,Min Max,Min Penalty,Min Total Cost,MinCost,Min Allocation,0
+1017,Min Max,Min Penalty,Min Total Cost,MinCost,Min Top-Bottom Sum,0
+1018,Min Max,Min Penalty,Min Total Cost,MinCost,Max Top-Bottom Sum,0
+1019,Min Max,Min Penalty,Min Total Cost,MinCost,Min Supply and Demand,0
+1020,Min Max,Min Penalty,Min Total Cost,MinCost,Max Supply and Demand,0
+1021,Min Max,Min Penalty,Min Total Cost,MinCost,Min Demand,0
+1022,Two Max,Max Penalty,Min Total Cost,MinSC,Index,0
+1023,Two Max,Max Penalty,Min Total Cost,MinSC,Max Supply,0
+1024,Two Max,Max Penalty,Min Total Cost,MinSC,Min Supply,0
+1025,Min Max,Min Penalty,Min Total Cost,MinSC,Min Top-Bottom Sum,0
+1026,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Supply and Demand,0
+1027,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Demand,0
+1028,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Demand,0
+1029,Min Max,Min Penalty,Min Total Cost,MaxSC,Min Supply,0
+1030,Min Max,Min Penalty,Min Total Cost,MaxSC,Max Supply,0
+1031,Min Max,Min Penalty,Min Total Cost,MaxSC,Index,0
+1032,Min Max,Min Penalty,Min Total Cost,MinSC,Min Supply Demand Mult,0
+1033,Min Max,Min Penalty,Min Total Cost,MinSC,Max Supply Demand Mult,0
+1034,Min Max,Min Penalty,Min Total Cost,MinSC,Min Cost Allocation,0
+1035,Min Max,Min Penalty,Min Total Cost,MinSC,Max Cost Allocation,0
+1036,Min Max,Min Penalty,Min Total Cost,MinSC,Min Allocation,0
+1037,Min Max,Min Penalty,Min Total Cost,MinSC,Max Allocation,0
+1038,Two Min,Min Penalty,Min Total Cost,MinSC,Index,0
+1039,Min Max,Min Penalty,Min Total Cost,MinSC,Max Top-Bottom Sum,0
+1040,Min Max,Min Penalty,Min Total Cost,MinSC,Min Supply and Demand,0
+1041,Min Max,Min Penalty,Min Total Cost,MinSC,Max Supply and Demand,0
+1042,Min Max,Min Penalty,Min Total Cost,MinSC,Min Demand,0
+1043,Two Min,Two Max,Min Total Cost,MaxSC,Min Allocation,0
+1044,Two Min,Two Max,Min Total Cost,MaxSC,Max Cost Allocation,0
+1045,Two Min,Two Max,Min Total Cost,MaxSC,Min Cost Allocation,0
+1046,Two Min,Two Max,Min Total Cost,MaxSC,Max Supply Demand Mult,0
+1047,Two Min,Two Max,Min Total Cost,MaxSC,Min Supply Demand Mult,0
+1048,Min Max,Min Penalty,Min Total Cost,MinSC,Max Demand,0
+1049,Min Max,Min Penalty,Min Total Cost,MinSC,Min Supply,0
+1050,Min Max,Min Penalty,Min Total Cost,MinSC,Max Supply,0
+1051,Two Max,Two Max,All Penalties,MinSC,Min Cost Allocation,0
+1052,Two Max,Two Max,All Penalties,MaxSC,Max Supply and Demand,0
+1053,Two Max,Two Max,All Penalties,MaxSC,Min Demand,0
+1054,Two Max,Two Max,All Penalties,MaxSC,Max Demand,0
+1055,Two Max,Two Max,All Penalties,MaxSC,Min Supply,0
+1056,Two Max,Two Max,All Penalties,MaxSC,Max Supply,0
+1057,Two Max,Two Max,All Penalties,MaxSC,Index,0
+1058,Two Max,Two Max,All Penalties,MinSC,Min Supply Demand Mult,0
+1059,Two Max,Two Max,All Penalties,MinSC,Max Supply Demand Mult,0
+1060,Two Max,Two Max,All Penalties,MaxSC,Min Supply and Demand,0
+1061,Two Max,Two Max,All Penalties,MinSC,Max Cost Allocation,0
+1062,Two Max,Two Max,All Penalties,MinSC,Min Allocation,0
+1063,Two Max,Two Max,All Penalties,MinSC,Max Allocation,0
+1064,Two Max,Two Max,All Penalties,MinSC,Min Top-Bottom Sum,0
+1065,Two Max,Two Max,All Penalties,MinSC,Max Top-Bottom Sum,0
+1066,Two Max,Two Max,All Penalties,MinSC,Min Supply and Demand,0
+1067,Two Max,Two Max,All Penalties,MinSC,Max Supply and Demand,0
+1068,Two Max,Two Max,All Penalties,MinSC,Min Demand,0
+1069,Min Max,Max Penalty,All Penalties,MinSC,Index,0
+1070,Min Max,Max Penalty,All Penalties,MinSC,Min Top-Bottom Sum,0
+1071,Min Max,Max Penalty,All Penalties,MinSC,Max Top-Bottom Sum,0
+1072,Min Max,Max Penalty,All Penalties,MinSC,Min Supply and Demand,0
+1073,Min Max,Max Penalty,All Penalties,MinSC,Max Supply and Demand,0
+1074,Min Max,Max Penalty,All Penalties,MinSC,Min Demand,0
+1075,Min Max,Max Penalty,All Penalties,MinSC,Max Demand,0
+1076,Min Max,Max Penalty,All Penalties,MinSC,Min Supply,0
+1077,Min Max,Max Penalty,All Penalties,MinSC,Max Supply,0
+1078,Two Max,Two Max,All Penalties,MinSC,Max Demand,0
+1079,Two Max,Two Max,All Penalties,MaxSC,Min Supply Demand Mult,0
+1080,Two Max,Two Max,All Penalties,MaxSC,Max Supply Demand Mult,0
+1081,Two Max,Two Max,All Penalties,MaxSC,Min Cost Allocation,0
+1082,Two Max,Two Max,All Penalties,MaxSC,Max Cost Allocation,0
+1083,Two Max,Two Max,All Penalties,MaxSC,Min Allocation,0
+1084,Two Max,Two Max,All Penalties,MaxSC,Max Allocation,0
+1085,Two Max,Two Max,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1086,Two Max,Two Max,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1087,Two Max,Min Penalty,All Penalties,MinSC,Min Supply and Demand,0
+1088,Two Max,Min Penalty,All Penalties,MinSC,Min Supply Demand Mult,0
+1089,Two Max,Min Penalty,All Penalties,MinSC,Max Supply Demand Mult,0
+1090,Two Max,Min Penalty,All Penalties,MinSC,Min Cost Allocation,0
+1091,Two Max,Min Penalty,All Penalties,MinSC,Max Cost Allocation,0
+1092,Two Max,Min Penalty,All Penalties,MinSC,Min Allocation,0
+1093,Two Max,Min Penalty,All Penalties,MinSC,Max Allocation,0
+1094,Two Max,Min Penalty,All Penalties,MinSC,Min Top-Bottom Sum,0
+1095,Two Max,Min Penalty,All Penalties,MinSC,Max Top-Bottom Sum,0
+1096,Two Max,Min Penalty,All Penalties,MaxSC,Index,0
+1097,Two Max,Min Penalty,All Penalties,MinSC,Max Supply and Demand,0
+1098,Two Max,Min Penalty,All Penalties,MinSC,Min Demand,0
+1099,Two Max,Min Penalty,All Penalties,MinSC,Max Demand,0
+1100,Two Max,Min Penalty,All Penalties,MinSC,Min Supply,0
+1101,Two Max,Min Penalty,All Penalties,MinSC,Max Supply,0
+1102,Two Max,Min Penalty,All Penalties,MinSC,Index,0
+1103,Two Max,Min Penalty,All Penalties,MinCost,Min Supply Demand Mult,0
+1104,Two Max,Min Penalty,All Penalties,MinCost,Max Supply Demand Mult,0
+1105,Two Max,Min Penalty,All Penalties,MaxSC,Max Allocation,0
+1106,Two Max,Two Max,All Penalties,MinSC,Min Supply,0
+1107,Two Max,Two Max,All Penalties,MinSC,Max Supply,0
+1108,Two Max,Two Max,All Penalties,MinSC,Index,0
+1109,Two Max,Min Penalty,All Penalties,MaxSC,Min Supply Demand Mult,0
+1110,Two Max,Min Penalty,All Penalties,MaxSC,Max Supply Demand Mult,0
+1111,Two Max,Min Penalty,All Penalties,MaxSC,Min Cost Allocation,0
+1112,Two Max,Min Penalty,All Penalties,MaxSC,Max Cost Allocation,0
+1113,Two Max,Min Penalty,All Penalties,MaxSC,Min Allocation,0
+1114,Min Max,Max Penalty,All Penalties,MinSC,Max Allocation,0
+1115,Two Max,Min Penalty,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1116,Two Max,Min Penalty,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1117,Two Max,Min Penalty,All Penalties,MaxSC,Min Supply and Demand,0
+1118,Two Max,Min Penalty,All Penalties,MaxSC,Max Supply and Demand,0
+1119,Two Max,Min Penalty,All Penalties,MaxSC,Min Demand,0
+1120,Two Max,Min Penalty,All Penalties,MaxSC,Max Demand,0
+1121,Two Max,Min Penalty,All Penalties,MaxSC,Min Supply,0
+1122,Two Max,Min Penalty,All Penalties,MaxSC,Max Supply,0
+1123,Min Max,Min Penalty,All Penalties,MinSC,Min Cost Allocation,0
+1124,Min Max,Min Penalty,All Penalties,MaxSC,Max Supply and Demand,0
+1125,Min Max,Min Penalty,All Penalties,MaxSC,Min Demand,0
+1126,Min Max,Min Penalty,All Penalties,MaxSC,Max Demand,0
+1127,Min Max,Min Penalty,All Penalties,MaxSC,Min Supply,0
+1128,Min Max,Min Penalty,All Penalties,MaxSC,Max Supply,0
+1129,Min Max,Min Penalty,All Penalties,MaxSC,Index,0
+1130,Min Max,Min Penalty,All Penalties,MinSC,Min Supply Demand Mult,0
+1131,Min Max,Min Penalty,All Penalties,MinSC,Max Supply Demand Mult,0
+1132,Min Max,Min Penalty,All Penalties,MaxSC,Min Supply and Demand,0
+1133,Min Max,Min Penalty,All Penalties,MinSC,Max Cost Allocation,0
+1134,Min Max,Min Penalty,All Penalties,MinSC,Min Allocation,0
+1135,Min Max,Min Penalty,All Penalties,MinSC,Max Allocation,0
+1136,Min Max,Min Penalty,All Penalties,MinSC,Min Top-Bottom Sum,0
+1137,Min Max,Min Penalty,All Penalties,MinSC,Max Top-Bottom Sum,0
+1138,Min Max,Min Penalty,All Penalties,MinSC,Min Supply and Demand,0
+1139,Min Max,Min Penalty,All Penalties,MinSC,Max Supply and Demand,0
+1140,Min Max,Min Penalty,All Penalties,MinSC,Min Demand,0
+1141,Min Max,Two Max,All Penalties,MinSC,Index,0
+1142,Min Max,Two Max,All Penalties,MinSC,Min Top-Bottom Sum,0
+1143,Min Max,Two Max,All Penalties,MinSC,Max Top-Bottom Sum,0
+1144,Min Max,Two Max,All Penalties,MinSC,Min Supply and Demand,0
+1145,Min Max,Two Max,All Penalties,MinSC,Max Supply and Demand,0
+1146,Min Max,Two Max,All Penalties,MinSC,Min Demand,0
+1147,Min Max,Two Max,All Penalties,MinSC,Max Demand,0
+1148,Min Max,Two Max,All Penalties,MinSC,Min Supply,0
+1149,Min Max,Two Max,All Penalties,MinSC,Max Supply,0
+1150,Min Max,Min Penalty,All Penalties,MinSC,Max Demand,0
+1151,Min Max,Min Penalty,All Penalties,MaxSC,Min Supply Demand Mult,0
+1152,Min Max,Min Penalty,All Penalties,MaxSC,Max Supply Demand Mult,0
+1153,Min Max,Min Penalty,All Penalties,MaxSC,Min Cost Allocation,0
+1154,Min Max,Min Penalty,All Penalties,MaxSC,Max Cost Allocation,0
+1155,Min Max,Min Penalty,All Penalties,MaxSC,Min Allocation,0
+1156,Min Max,Min Penalty,All Penalties,MaxSC,Max Allocation,0
+1157,Min Max,Min Penalty,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1158,Min Max,Min Penalty,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1159,Min Max,Max Penalty,All Penalties,MaxSC,Max Demand,0
+1160,Min Max,Max Penalty,All Penalties,MaxSC,Max Cost Allocation,0
+1161,Min Max,Max Penalty,All Penalties,MaxSC,Min Allocation,0
+1162,Min Max,Max Penalty,All Penalties,MaxSC,Max Allocation,0
+1163,Min Max,Max Penalty,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1164,Min Max,Max Penalty,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1165,Min Max,Max Penalty,All Penalties,MaxSC,Min Supply and Demand,0
+1166,Min Max,Max Penalty,All Penalties,MaxSC,Max Supply and Demand,0
+1167,Min Max,Max Penalty,All Penalties,MaxSC,Min Demand,0
+1168,Min Max,Max Penalty,All Penalties,MaxSC,Min Cost Allocation,0
+1169,Min Max,Max Penalty,All Penalties,MaxSC,Min Supply,0
+1170,Min Max,Max Penalty,All Penalties,MaxSC,Max Supply,0
+1171,Min Max,Max Penalty,All Penalties,MaxSC,Index,0
+1172,Min Max,Max Penalty,All Penalties,MinSC,Min Supply Demand Mult,0
+1173,Min Max,Max Penalty,All Penalties,MinSC,Max Supply Demand Mult,0
+1174,Min Max,Max Penalty,All Penalties,MinSC,Min Cost Allocation,0
+1175,Min Max,Max Penalty,All Penalties,MinSC,Max Cost Allocation,0
+1176,Min Max,Max Penalty,All Penalties,MinSC,Min Allocation,0
+1177,Min Max,Min Penalty,All Penalties,MinCost,Min Supply and Demand,0
+1178,Min Max,Min Penalty,All Penalties,MinSC,Min Supply,0
+1179,Min Max,Min Penalty,All Penalties,MinSC,Max Supply,0
+1180,Min Max,Min Penalty,All Penalties,MinSC,Index,0
+1181,Min Max,Min Penalty,All Penalties,MinCost,Min Supply Demand Mult,0
+1182,Min Max,Min Penalty,All Penalties,MinCost,Min Cost Allocation,0
+1183,Min Max,Min Penalty,All Penalties,MinCost,Min Allocation,0
+1184,Min Max,Min Penalty,All Penalties,MinCost,Min Top-Bottom Sum,0
+1185,Min Max,Min Penalty,All Penalties,MinCost,Max Top-Bottom Sum,0
+1186,Two Max,Min Penalty,All Penalties,MinCost,Min Cost Allocation,0
+1187,Min Max,Min Penalty,All Penalties,MinCost,Max Supply and Demand,0
+1188,Min Max,Min Penalty,All Penalties,MinCost,Min Demand,0
+1189,Min Max,Min Penalty,All Penalties,MinCost,Max Demand,0
+1190,Min Max,Min Penalty,All Penalties,MinCost,Min Supply,0
+1191,Min Max,Min Penalty,All Penalties,MinCost,Index,0
+1192,Min Max,Max Penalty,All Penalties,MaxSC,Min Supply Demand Mult,0
+1193,Min Max,Max Penalty,All Penalties,MaxSC,Max Supply Demand Mult,0
+1194,Two Min,Min Penalty,All Penalties,MinSC,Min Demand,0
+1195,Two Min,Min Penalty,All Penalties,MinSC,Min Cost Allocation,0
+1196,Two Min,Min Penalty,All Penalties,MinSC,Max Cost Allocation,0
+1197,Two Min,Min Penalty,All Penalties,MinSC,Min Allocation,0
+1198,Two Min,Min Penalty,All Penalties,MinSC,Max Allocation,0
+1199,Two Min,Min Penalty,All Penalties,MinSC,Min Top-Bottom Sum,0
+1200,Two Min,Min Penalty,All Penalties,MinSC,Max Top-Bottom Sum,0
+1201,Two Min,Min Penalty,All Penalties,MinSC,Min Supply and Demand,0
+1202,Two Min,Min Penalty,All Penalties,MinSC,Max Supply and Demand,0
+1203,Two Min,Min Penalty,All Penalties,MinSC,Max Supply Demand Mult,0
+1204,Two Min,Min Penalty,All Penalties,MinSC,Max Demand,0
+1205,Two Min,Min Penalty,All Penalties,MinSC,Min Supply,0
+1206,Two Min,Min Penalty,All Penalties,MinSC,Max Supply,0
+1207,Two Min,Min Penalty,All Penalties,MinSC,Index,0
+1208,Two Min,Min Penalty,All Penalties,MinCost,Min Supply Demand Mult,0
+1209,Two Min,Min Penalty,All Penalties,MinCost,Min Cost Allocation,0
+1210,Two Min,Min Penalty,All Penalties,MinCost,Min Allocation,0
+1211,Two Min,Min Penalty,All Penalties,MinCost,Max Top-Bottom Sum,0
+1212,Two Min,Min Penalty,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1213,Two Min,Two Max,All Penalties,MinSC,Index,0
+1214,Two Min,Min Penalty,All Penalties,MaxSC,Min Supply Demand Mult,0
+1215,Two Min,Min Penalty,All Penalties,MaxSC,Max Supply Demand Mult,0
+1216,Two Min,Min Penalty,All Penalties,MaxSC,Min Cost Allocation,0
+1217,Two Min,Min Penalty,All Penalties,MaxSC,Max Cost Allocation,0
+1218,Two Min,Min Penalty,All Penalties,MaxSC,Min Allocation,0
+1219,Two Min,Min Penalty,All Penalties,MaxSC,Max Allocation,0
+1220,Two Min,Min Penalty,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1221,Two Min,Min Penalty,All Penalties,MinCost,Min Supply and Demand,0
+1222,Two Min,Min Penalty,All Penalties,MaxSC,Min Supply and Demand,0
+1223,Two Min,Min Penalty,All Penalties,MaxSC,Max Supply and Demand,0
+1224,Two Min,Min Penalty,All Penalties,MaxSC,Min Demand,0
+1225,Two Min,Min Penalty,All Penalties,MaxSC,Max Demand,0
+1226,Two Min,Min Penalty,All Penalties,MaxSC,Min Supply,0
+1227,Two Min,Min Penalty,All Penalties,MaxSC,Max Supply,0
+1228,Two Min,Min Penalty,All Penalties,MaxSC,Index,0
+1229,Two Min,Min Penalty,All Penalties,MinSC,Min Supply Demand Mult,0
+1230,Two Min,Max Penalty,All Penalties,MinSC,Min Top-Bottom Sum,0
+1231,Two Min,Max Penalty,All Penalties,MaxSC,Max Supply,0
+1232,Two Min,Max Penalty,All Penalties,MaxSC,Index,0
+1233,Two Min,Max Penalty,All Penalties,MinSC,Min Supply Demand Mult,0
+1234,Two Min,Max Penalty,All Penalties,MinSC,Max Supply Demand Mult,0
+1235,Two Min,Max Penalty,All Penalties,MinSC,Min Cost Allocation,0
+1236,Two Min,Max Penalty,All Penalties,MinSC,Max Cost Allocation,0
+1237,Two Min,Max Penalty,All Penalties,MinSC,Min Allocation,0
+1238,Two Min,Max Penalty,All Penalties,MinSC,Max Allocation,0
+1239,Two Min,Max Penalty,All Penalties,MaxSC,Min Supply,0
+1240,Two Min,Max Penalty,All Penalties,MinSC,Max Top-Bottom Sum,0
+1241,Two Min,Max Penalty,All Penalties,MinSC,Min Supply and Demand,0
+1242,Two Min,Max Penalty,All Penalties,MinSC,Max Supply and Demand,0
+1243,Two Min,Max Penalty,All Penalties,MinSC,Min Demand,0
+1244,Two Min,Max Penalty,All Penalties,MinSC,Max Demand,0
+1245,Two Min,Max Penalty,All Penalties,MinSC,Min Supply,0
+1246,Two Min,Max Penalty,All Penalties,MinSC,Max Supply,0
+1247,Two Min,Max Penalty,All Penalties,MinSC,Index,0
+1248,Two Min,Max Penalty,All Penalties,MaxSC,Min Allocation,0
+1249,Two Min,Min Penalty,All Penalties,MinCost,Min Demand,0
+1250,Two Min,Min Penalty,All Penalties,MinCost,Min Supply,0
+1251,Two Min,Min Penalty,All Penalties,MinCost,Max Supply,0
+1252,Two Min,Min Penalty,All Penalties,MinCost,Index,0
+1253,Two Min,Max Penalty,All Penalties,MaxSC,Min Supply Demand Mult,0
+1254,Two Min,Max Penalty,All Penalties,MaxSC,Max Supply Demand Mult,0
+1255,Two Min,Max Penalty,All Penalties,MaxSC,Min Cost Allocation,0
+1256,Two Min,Max Penalty,All Penalties,MaxSC,Max Cost Allocation,0
+1257,Two Min,Two Max,All Penalties,MinSC,Max Supply,0
+1258,Two Min,Max Penalty,All Penalties,MaxSC,Max Allocation,0
+1259,Two Min,Max Penalty,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1260,Two Min,Max Penalty,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1261,Two Min,Max Penalty,All Penalties,MaxSC,Min Supply and Demand,0
+1262,Two Min,Max Penalty,All Penalties,MaxSC,Max Supply and Demand,0
+1263,Two Min,Max Penalty,All Penalties,MaxSC,Min Demand,0
+1264,Two Min,Max Penalty,All Penalties,MaxSC,Max Demand,0
+1265,Two Max,Max Penalty,All Penalties,MaxSC,Index,0
+1266,Two Max,Max Penalty,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1267,Two Max,Max Penalty,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1268,Two Max,Max Penalty,All Penalties,MaxSC,Min Supply and Demand,0
+1269,Two Max,Max Penalty,All Penalties,MaxSC,Max Supply and Demand,0
+1270,Two Max,Max Penalty,All Penalties,MaxSC,Min Demand,0
+1271,Two Max,Max Penalty,All Penalties,MaxSC,Max Demand,0
+1272,Two Max,Max Penalty,All Penalties,MaxSC,Min Supply,0
+1273,Two Max,Max Penalty,All Penalties,MaxSC,Max Supply,0
+1274,Two Max,Max Penalty,All Penalties,MaxSC,Max Allocation,0
+1275,Two Max,Max Penalty,All Penalties,MinSC,Min Supply Demand Mult,0
+1276,Two Max,Max Penalty,All Penalties,MinSC,Max Supply Demand Mult,0
+1277,Two Max,Max Penalty,All Penalties,MinSC,Min Cost Allocation,0
+1278,Two Max,Max Penalty,All Penalties,MinSC,Max Cost Allocation,0
+1279,Two Max,Max Penalty,All Penalties,MinSC,Min Allocation,0
+1280,Two Max,Max Penalty,All Penalties,MinSC,Max Allocation,0
+1281,Two Max,Max Penalty,All Penalties,MinSC,Min Top-Bottom Sum,0
+1282,Two Max,Max Penalty,All Penalties,MinSC,Max Top-Bottom Sum,0
+1283,Two Max,Min Penalty,All Penalties,MinCost,Max Demand,0
+1284,Two Max,Min Penalty,All Penalties,MinCost,Max Cost Allocation,0
+1285,Two Max,Min Penalty,All Penalties,MinCost,Min Allocation,0
+1286,Two Max,Min Penalty,All Penalties,MinCost,Max Allocation,0
+1287,Two Max,Min Penalty,All Penalties,MinCost,Min Top-Bottom Sum,0
+1288,Two Max,Min Penalty,All Penalties,MinCost,Max Top-Bottom Sum,0
+1289,Two Max,Min Penalty,All Penalties,MinCost,Min Supply and Demand,0
+1290,Two Max,Min Penalty,All Penalties,MinCost,Max Supply and Demand,0
+1291,Two Max,Min Penalty,All Penalties,MinCost,Min Demand,0
+1292,Two Max,Max Penalty,All Penalties,MinSC,Min Supply and Demand,0
+1293,Two Max,Min Penalty,All Penalties,MinCost,Min Supply,0
+1294,Two Max,Min Penalty,All Penalties,MinCost,Max Supply,0
+1295,Two Max,Min Penalty,All Penalties,MinCost,Index,0
+1296,Two Max,Max Penalty,All Penalties,MaxSC,Min Supply Demand Mult,0
+1297,Two Max,Max Penalty,All Penalties,MaxSC,Max Supply Demand Mult,0
+1298,Two Max,Max Penalty,All Penalties,MaxSC,Min Cost Allocation,0
+1299,Two Max,Max Penalty,All Penalties,MaxSC,Max Cost Allocation,0
+1300,Two Max,Max Penalty,All Penalties,MaxSC,Min Allocation,0
+1301,Two Min,Two Max,All Penalties,MinSC,Min Allocation,0
+1302,Two Min,Two Max,All Penalties,MaxSC,Max Demand,0
+1303,Two Min,Two Max,All Penalties,MaxSC,Min Supply,0
+1304,Two Min,Two Max,All Penalties,MaxSC,Max Supply,0
+1305,Two Min,Two Max,All Penalties,MaxSC,Index,0
+1306,Two Min,Two Max,All Penalties,MinSC,Min Supply Demand Mult,0
+1307,Two Min,Two Max,All Penalties,MinSC,Max Supply Demand Mult,0
+1308,Two Min,Two Max,All Penalties,MinSC,Min Cost Allocation,0
+1309,Two Min,Two Max,All Penalties,MinSC,Max Cost Allocation,0
+1310,Two Min,Two Max,All Penalties,MaxSC,Min Demand,0
+1311,Two Min,Two Max,All Penalties,MinSC,Max Allocation,0
+1312,Two Min,Two Max,All Penalties,MinSC,Min Top-Bottom Sum,0
+1313,Two Min,Two Max,All Penalties,MinSC,Max Top-Bottom Sum,0
+1314,Two Min,Two Max,All Penalties,MinSC,Min Supply and Demand,0
+1315,Two Min,Two Max,All Penalties,MinSC,Max Supply and Demand,0
+1316,Two Min,Two Max,All Penalties,MinSC,Min Demand,0
+1317,Two Min,Two Max,All Penalties,MinSC,Max Demand,0
+1318,Two Min,Two Max,All Penalties,MinSC,Min Supply,0
+1319,Two Min,Two Max,All Penalties,MaxSC,Min Cost Allocation,0
+1320,Two Max,Max Penalty,All Penalties,MinSC,Max Supply and Demand,0
+1321,Two Max,Max Penalty,All Penalties,MinSC,Min Demand,0
+1322,Two Max,Max Penalty,All Penalties,MinSC,Max Demand,0
+1323,Two Max,Max Penalty,All Penalties,MinSC,Min Supply,0
+1324,Two Max,Max Penalty,All Penalties,MinSC,Max Supply,0
+1325,Two Max,Max Penalty,All Penalties,MinSC,Index,0
+1326,Two Min,Two Max,All Penalties,MaxSC,Min Supply Demand Mult,0
+1327,Two Min,Two Max,All Penalties,MaxSC,Max Supply Demand Mult,0
+1328,Min Max,Two Max,All Penalties,MinSC,Max Allocation,0
+1329,Two Min,Two Max,All Penalties,MaxSC,Max Cost Allocation,0
+1330,Two Min,Two Max,All Penalties,MaxSC,Min Allocation,0
+1331,Two Min,Two Max,All Penalties,MaxSC,Max Allocation,0
+1332,Two Min,Two Max,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1333,Two Min,Two Max,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1334,Two Min,Two Max,All Penalties,MaxSC,Min Supply and Demand,0
+1335,Two Min,Two Max,All Penalties,MaxSC,Max Supply and Demand,0
+1336,Two Max,Two Max,Max Total Cost,MaxSC,Max Supply,0
+1337,Two Max,Two Max,Max Total Cost,MaxSC,Max Allocation,0
+1338,Two Max,Two Max,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1339,Two Max,Two Max,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1340,Two Max,Two Max,Max Total Cost,MaxSC,Min Supply and Demand,0
+1341,Two Max,Two Max,Max Total Cost,MaxSC,Max Supply and Demand,0
+1342,Two Max,Two Max,Max Total Cost,MaxSC,Min Demand,0
+1343,Two Max,Two Max,Max Total Cost,MaxSC,Max Demand,0
+1344,Two Max,Two Max,Max Total Cost,MaxSC,Min Supply,0
+1345,Two Max,Two Max,Max Total Cost,MaxSC,Min Allocation,0
+1346,Two Max,Two Max,Max Total Cost,MaxSC,Index,0
+1347,Two Max,Two Max,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1348,Two Max,Two Max,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1349,Two Max,Two Max,Max Total Cost,MinSC,Min Cost Allocation,0
+1350,Two Max,Two Max,Max Total Cost,MinSC,Max Cost Allocation,0
+1351,Two Max,Two Max,Max Total Cost,MinSC,Min Allocation,0
+1352,Two Max,Two Max,Max Total Cost,MinSC,Max Allocation,0
+1353,Two Max,Two Max,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1354,Min Max,Max Penalty,Max Total Cost,MinSC,Min Demand,0
+1355,Min Max,Max Penalty,Max Total Cost,MinSC,Min Cost Allocation,0
+1356,Min Max,Max Penalty,Max Total Cost,MinSC,Max Cost Allocation,0
+1357,Min Max,Max Penalty,Max Total Cost,MinSC,Min Allocation,0
+1358,Min Max,Max Penalty,Max Total Cost,MinSC,Max Allocation,0
+1359,Min Max,Max Penalty,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1360,Min Max,Max Penalty,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1361,Min Max,Max Penalty,Max Total Cost,MinSC,Min Supply and Demand,0
+1362,Min Max,Max Penalty,Max Total Cost,MinSC,Max Supply and Demand,0
+1363,Two Max,Two Max,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1364,Min Max,Max Penalty,Max Total Cost,MinSC,Max Demand,0
+1365,Min Max,Max Penalty,Max Total Cost,MinSC,Min Supply,0
+1366,Min Max,Max Penalty,Max Total Cost,MinSC,Max Supply,0
+1367,Min Max,Max Penalty,Max Total Cost,MinSC,Index,0
+1368,Two Max,Two Max,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1369,Two Max,Two Max,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1370,Two Max,Two Max,Max Total Cost,MaxSC,Min Cost Allocation,0
+1371,Two Max,Two Max,Max Total Cost,MaxSC,Max Cost Allocation,0
+1372,Two Max,Min Penalty,Max Total Cost,MinSC,Min Allocation,0
+1373,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Demand,0
+1374,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Supply,0
+1375,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Supply,0
+1376,Two Max,Min Penalty,Max Total Cost,MaxSC,Index,0
+1377,Two Max,Min Penalty,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1378,Two Max,Min Penalty,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1379,Two Max,Min Penalty,Max Total Cost,MinSC,Min Cost Allocation,0
+1380,Two Max,Min Penalty,Max Total Cost,MinSC,Max Cost Allocation,0
+1381,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Demand,0
+1382,Two Max,Min Penalty,Max Total Cost,MinSC,Max Allocation,0
+1383,Two Max,Min Penalty,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1384,Two Max,Min Penalty,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1385,Two Max,Min Penalty,Max Total Cost,MinSC,Min Supply and Demand,0
+1386,Two Max,Min Penalty,Max Total Cost,MinSC,Max Supply and Demand,0
+1387,Two Max,Min Penalty,Max Total Cost,MinSC,Min Demand,0
+1388,Two Max,Min Penalty,Max Total Cost,MinSC,Max Demand,0
+1389,Two Max,Min Penalty,Max Total Cost,MinSC,Min Supply,0
+1390,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1391,Two Max,Two Max,Max Total Cost,MinSC,Min Supply and Demand,0
+1392,Two Max,Two Max,Max Total Cost,MinSC,Max Supply and Demand,0
+1393,Two Max,Two Max,Max Total Cost,MinSC,Min Demand,0
+1394,Two Max,Two Max,Max Total Cost,MinSC,Max Demand,0
+1395,Two Max,Two Max,Max Total Cost,MinSC,Min Supply,0
+1396,Two Max,Two Max,Max Total Cost,MinSC,Max Supply,0
+1397,Two Max,Two Max,Max Total Cost,MinSC,Index,0
+1398,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1399,Min Max,Max Penalty,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1400,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Cost Allocation,0
+1401,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Cost Allocation,0
+1402,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Allocation,0
+1403,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Allocation,0
+1404,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1405,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1406,Two Max,Min Penalty,Max Total Cost,MaxSC,Min Supply and Demand,0
+1407,Two Max,Min Penalty,Max Total Cost,MaxSC,Max Supply and Demand,0
+1408,Min Max,Min Penalty,Max Total Cost,MinSC,Max Demand,0
+1409,Min Max,Min Penalty,Max Total Cost,MinSC,Max Cost Allocation,0
+1410,Min Max,Min Penalty,Max Total Cost,MinSC,Min Allocation,0
+1411,Min Max,Min Penalty,Max Total Cost,MinSC,Max Allocation,0
+1412,Min Max,Min Penalty,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1413,Min Max,Min Penalty,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1414,Min Max,Min Penalty,Max Total Cost,MinSC,Min Supply and Demand,0
+1415,Min Max,Min Penalty,Max Total Cost,MinSC,Max Supply and Demand,0
+1416,Min Max,Min Penalty,Max Total Cost,MinSC,Min Demand,0
+1417,Min Max,Min Penalty,Max Total Cost,MinSC,Min Cost Allocation,0
+1418,Min Max,Min Penalty,Max Total Cost,MinSC,Min Supply,0
+1419,Min Max,Min Penalty,Max Total Cost,MinSC,Max Supply,0
+1420,Min Max,Min Penalty,Max Total Cost,MinSC,Index,0
+1421,Min Max,Min Penalty,Max Total Cost,MinCA,Max Supply Demand Mult,0
+1422,Min Max,Min Penalty,Max Total Cost,MinCA,Min Cost Allocation,0
+1423,Min Max,Min Penalty,Max Total Cost,MinCA,Max Cost Allocation,0
+1424,Min Max,Min Penalty,Max Total Cost,MinCA,Min Allocation,0
+1425,Min Max,Min Penalty,Max Total Cost,MinCA,Max Allocation,0
+1426,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Supply and Demand,0
+1427,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1428,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1429,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Cost Allocation,0
+1430,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Cost Allocation,0
+1431,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Allocation,0
+1432,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Allocation,0
+1433,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1434,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1435,Min Max,Min Penalty,Max Total Cost,MinCA,Max Top-Bottom Sum,0
+1436,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Supply and Demand,0
+1437,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Demand,0
+1438,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Demand,0
+1439,Min Max,Min Penalty,Max Total Cost,MaxSC,Min Supply,0
+1440,Min Max,Min Penalty,Max Total Cost,MaxSC,Max Supply,0
+1441,Min Max,Min Penalty,Max Total Cost,MaxSC,Index,0
+1442,Min Max,Min Penalty,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1443,Min Max,Min Penalty,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1444,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1445,Min Max,Min Penalty,Max Total Cost,MinCost,Index,0
+1446,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1447,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1448,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Cost Allocation,0
+1449,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Cost Allocation,0
+1450,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Allocation,0
+1451,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Allocation,0
+1452,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1453,Min Max,Min Penalty,Max Total Cost,MinCost,Max Supply,0
+1454,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Supply and Demand,0
+1455,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Supply and Demand,0
+1456,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Demand,0
+1457,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Demand,0
+1458,Min Max,Max Penalty,Max Total Cost,MaxSC,Min Supply,0
+1459,Min Max,Max Penalty,Max Total Cost,MaxSC,Max Supply,0
+1460,Min Max,Max Penalty,Max Total Cost,MaxSC,Index,0
+1461,Min Max,Max Penalty,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1462,Min Max,Min Penalty,Max Total Cost,MinCost,Max Cost Allocation,0
+1463,Min Max,Min Penalty,Max Total Cost,MinCA,Min Supply and Demand,0
+1464,Min Max,Min Penalty,Max Total Cost,MinCA,Max Supply and Demand,0
+1465,Min Max,Min Penalty,Max Total Cost,MinCA,Min Demand,0
+1466,Min Max,Min Penalty,Max Total Cost,MinCA,Max Demand,0
+1467,Min Max,Min Penalty,Max Total Cost,MinCA,Max Supply,0
+1468,Min Max,Min Penalty,Max Total Cost,MinCA,Index,0
+1469,Min Max,Min Penalty,Max Total Cost,MinCost,Max Supply Demand Mult,0
+1470,Min Max,Min Penalty,Max Total Cost,MinCost,Min Cost Allocation,0
+1471,Two Max,Min Penalty,Max Total Cost,MinSC,Max Supply,0
+1472,Min Max,Min Penalty,Max Total Cost,MinCost,Min Allocation,0
+1473,Min Max,Min Penalty,Max Total Cost,MinCost,Max Allocation,0
+1474,Min Max,Min Penalty,Max Total Cost,MinCost,Max Top-Bottom Sum,0
+1475,Min Max,Min Penalty,Max Total Cost,MinCost,Min Supply and Demand,0
+1476,Min Max,Min Penalty,Max Total Cost,MinCost,Max Supply and Demand,0
+1477,Min Max,Min Penalty,Max Total Cost,MinCost,Min Demand,0
+1478,Min Max,Min Penalty,Max Total Cost,MinCost,Max Demand,0
+1479,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1480,Two Min,Min Penalty,Max Total Cost,MinSC,Max Supply,0
+1481,Two Min,Min Penalty,Max Total Cost,MinSC,Index,0
+1482,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1483,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1484,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Cost Allocation,0
+1485,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Cost Allocation,0
+1486,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Allocation,0
+1487,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Allocation,0
+1488,Two Min,Min Penalty,Max Total Cost,MinSC,Min Supply,0
+1489,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1490,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Supply and Demand,0
+1491,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Supply and Demand,0
+1492,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Demand,0
+1493,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Demand,0
+1494,Two Min,Max Penalty,Max Total Cost,MaxSC,Min Supply,0
+1495,Two Min,Max Penalty,Max Total Cost,MaxSC,Max Supply,0
+1496,Two Min,Max Penalty,Max Total Cost,MaxSC,Index,0
+1497,Two Min,Min Penalty,Max Total Cost,MinSC,Max Cost Allocation,0
+1498,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Demand,0
+1499,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Demand,0
+1500,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Supply,0
+1501,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Supply,0
+1502,Two Min,Min Penalty,Max Total Cost,MaxSC,Index,0
+1503,Two Min,Min Penalty,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1504,Two Min,Min Penalty,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1505,Two Min,Min Penalty,Max Total Cost,MinSC,Min Cost Allocation,0
+1506,Two Min,Max Penalty,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1507,Two Min,Min Penalty,Max Total Cost,MinSC,Min Allocation,0
+1508,Two Min,Min Penalty,Max Total Cost,MinSC,Max Allocation,0
+1509,Two Min,Min Penalty,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1510,Two Min,Min Penalty,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1511,Two Min,Min Penalty,Max Total Cost,MinSC,Min Supply and Demand,0
+1512,Two Min,Min Penalty,Max Total Cost,MinSC,Max Supply and Demand,0
+1513,Two Min,Min Penalty,Max Total Cost,MinSC,Min Demand,0
+1514,Two Min,Min Penalty,Max Total Cost,MinSC,Max Demand,0
+1515,Min Max,Two Max,All Penalties,MaxSC,Max Demand,0
+1516,Min Max,Two Max,All Penalties,MaxSC,Max Cost Allocation,0
+1517,Min Max,Two Max,All Penalties,MaxSC,Min Allocation,0
+1518,Min Max,Two Max,All Penalties,MaxSC,Max Allocation,0
+1519,Min Max,Two Max,All Penalties,MaxSC,Min Top-Bottom Sum,0
+1520,Min Max,Two Max,All Penalties,MaxSC,Max Top-Bottom Sum,0
+1521,Min Max,Two Max,All Penalties,MaxSC,Min Supply and Demand,0
+1522,Min Max,Two Max,All Penalties,MaxSC,Max Supply and Demand,0
+1523,Min Max,Two Max,All Penalties,MaxSC,Min Demand,0
+1524,Min Max,Two Max,All Penalties,MaxSC,Min Cost Allocation,0
+1525,Min Max,Two Max,All Penalties,MaxSC,Min Supply,0
+1526,Min Max,Two Max,All Penalties,MaxSC,Max Supply,0
+1527,Min Max,Two Max,All Penalties,MaxSC,Index,0
+1528,Min Max,Two Max,All Penalties,MinSC,Min Supply Demand Mult,0
+1529,Min Max,Two Max,All Penalties,MinSC,Max Supply Demand Mult,0
+1530,Min Max,Two Max,All Penalties,MinSC,Min Cost Allocation,0
+1531,Min Max,Two Max,All Penalties,MinSC,Max Cost Allocation,0
+1532,Min Max,Two Max,All Penalties,MinSC,Min Allocation,0
+1533,Two Min,Max Penalty,Max Total Cost,MinSC,Max Supply and Demand,0
+1534,Two Min,Max Penalty,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1535,Two Min,Max Penalty,Max Total Cost,MinSC,Min Cost Allocation,0
+1536,Two Min,Max Penalty,Max Total Cost,MinSC,Max Cost Allocation,0
+1537,Two Min,Max Penalty,Max Total Cost,MinSC,Min Allocation,0
+1538,Two Min,Max Penalty,Max Total Cost,MinSC,Max Allocation,0
+1539,Two Min,Max Penalty,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1540,Two Min,Max Penalty,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1541,Two Min,Max Penalty,Max Total Cost,MinSC,Min Supply and Demand,0
+1542,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Supply and Demand,0
+1543,Two Min,Max Penalty,Max Total Cost,MinSC,Min Demand,0
+1544,Two Min,Max Penalty,Max Total Cost,MinSC,Max Demand,0
+1545,Two Min,Max Penalty,Max Total Cost,MinSC,Min Supply,0
+1546,Two Min,Max Penalty,Max Total Cost,MinSC,Max Supply,0
+1547,Two Min,Max Penalty,Max Total Cost,MinSC,Index,0
+1548,Min Max,Two Max,All Penalties,MaxSC,Min Supply Demand Mult,0
+1549,Min Max,Two Max,All Penalties,MaxSC,Max Supply Demand Mult,0
+1550,Two Max,Max Penalty,Max Total Cost,MinSC,Min Demand,0
+1551,Two Max,Max Penalty,Max Total Cost,MinSC,Min Cost Allocation,0
+1552,Two Max,Max Penalty,Max Total Cost,MinSC,Max Cost Allocation,0
+1553,Two Max,Max Penalty,Max Total Cost,MinSC,Min Allocation,0
+1554,Two Max,Max Penalty,Max Total Cost,MinSC,Max Allocation,0
+1555,Two Max,Max Penalty,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1556,Two Max,Max Penalty,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1557,Two Max,Max Penalty,Max Total Cost,MinSC,Min Supply and Demand,0
+1558,Two Max,Max Penalty,Max Total Cost,MinSC,Max Supply and Demand,0
+1559,Two Max,Max Penalty,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1560,Two Max,Max Penalty,Max Total Cost,MinSC,Max Demand,0
+1561,Two Max,Max Penalty,Max Total Cost,MinSC,Min Supply,0
+1562,Two Max,Max Penalty,Max Total Cost,MinSC,Max Supply,0
+1563,Two Max,Max Penalty,Max Total Cost,MinSC,Index,0
+1564,Two Min,Two Max,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1565,Two Min,Two Max,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1566,Two Min,Two Max,Max Total Cost,MaxSC,Min Cost Allocation,0
+1567,Two Min,Two Max,Max Total Cost,MaxSC,Max Cost Allocation,0
+1568,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1569,Two Max,Min Penalty,Max Total Cost,MinSC,Index,0
+1570,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1571,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1572,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Cost Allocation,0
+1573,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Cost Allocation,0
+1574,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Allocation,0
+1575,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Allocation,0
+1576,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1577,Two Min,Two Max,Max Total Cost,MaxSC,Min Allocation,0
+1578,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Supply and Demand,0
+1579,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Supply and Demand,0
+1580,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Demand,0
+1581,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Demand,0
+1582,Two Max,Max Penalty,Max Total Cost,MaxSC,Min Supply,0
+1583,Two Max,Max Penalty,Max Total Cost,MaxSC,Max Supply,0
+1584,Two Max,Max Penalty,Max Total Cost,MaxSC,Index,0
+1585,Two Max,Max Penalty,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1586,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Supply Demand Mult,0
+1587,Two Min,Two Max,Max Total Cost,MinSC,Max Top-Bottom Sum,0
+1588,Two Min,Two Max,Max Total Cost,MinSC,Min Supply and Demand,0
+1589,Two Min,Two Max,Max Total Cost,MinSC,Max Supply and Demand,0
+1590,Two Min,Two Max,Max Total Cost,MinSC,Min Demand,0
+1591,Two Min,Two Max,Max Total Cost,MinSC,Max Demand,0
+1592,Two Min,Two Max,Max Total Cost,MinSC,Min Supply,0
+1593,Two Min,Two Max,Max Total Cost,MinSC,Max Supply,0
+1594,Two Min,Two Max,Max Total Cost,MinSC,Index,0
+1595,Two Min,Two Max,Max Total Cost,MinSC,Min Top-Bottom Sum,0
+1596,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Supply Demand Mult,0
+1597,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Cost Allocation,0
+1598,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Cost Allocation,0
+1599,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Allocation,0
+1600,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Allocation,0
+1601,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1602,Two Min,Min Penalty,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1603,Two Min,Min Penalty,Max Total Cost,MaxSC,Min Supply and Demand,0
+1604,Two Min,Two Max,Max Total Cost,MaxSC,Max Supply,0
+1605,Two Min,Two Max,Max Total Cost,MaxSC,Max Allocation,0
+1606,Two Min,Two Max,Max Total Cost,MaxSC,Min Top-Bottom Sum,0
+1607,Two Min,Two Max,Max Total Cost,MaxSC,Max Top-Bottom Sum,0
+1608,Two Min,Two Max,Max Total Cost,MaxSC,Min Supply and Demand,0
+1609,Two Min,Two Max,Max Total Cost,MaxSC,Max Supply and Demand,0
+1610,Two Min,Two Max,Max Total Cost,MaxSC,Min Demand,0
+1611,Two Min,Two Max,Max Total Cost,MaxSC,Max Demand,0
+1612,Two Min,Two Max,Max Total Cost,MaxSC,Min Supply,0
+1613,Min Max,Two Max,Max Total Cost,MinSC,Index,0
+1614,Two Min,Two Max,Max Total Cost,MaxSC,Index,0
+1615,Two Min,Two Max,Max Total Cost,MinSC,Min Supply Demand Mult,0
+1616,Two Min,Two Max,Max Total Cost,MinSC,Max Supply Demand Mult,0
+1617,Two Min,Two Max,Max Total Cost,MinSC,Min Cost Allocation,0
+1618,Two Min,Two Max,Max Total Cost,MinSC,Max Cost Allocation,0
+1619,Two Min,Two Max,Max Total Cost,MinSC,Min Allocation,0
+1620,Two Min,Two Max,Max Total Cost,MinSC,Max Allocation,0
