@@ -43,7 +43,6 @@ int main() {
         // Calculate Penalties and find best cell
         calculatePenalties(costMatrix, rowPenalties, colPenalties, currPcStrat);
 
-        // NEED UPDATE
         findBestCostIndex(costMatrix, rowPenalties, colPenalties, supply, demand, bestRowIndex, bestColIndex, currPsStrat, currPtbStrat, currCsStrat, currCtbStrat);
         // Check if valid best indices were found
         if (bestRowIndex == -1 || bestColIndex == -1) {
