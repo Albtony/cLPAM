@@ -26,9 +26,10 @@ The accuracy is determined by comparing the IBFS solution with the known optimal
 - Achieved 65% accuracy in finding the optimal IBFS, with a 99.05% near-optimality percentage
 
 ## Installation & Usage 
-### Prequisites
+### Prerequisites
 - C++ Compiler
 - Standard C++ Libraries (bits/stdc++)
+- ANSI supported terminal (ANSI escape codes are used for coloring)
 ### Usage
 - Place input files in the ./input/ directory in .txt
 - Compile and run the program using the following command:
