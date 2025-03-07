@@ -11,6 +11,8 @@ This project includes three programs, each serving a different purpose:
 ## How It Works  
 <p align="justify">  
 Transportation problems involve optimizing the distribution of resources from multiple suppliers to multiple consumers while minimizing cost. CLPAM modifies LPAM by redefining key strategy points, altering its core mechanism. Various configurations are tested, and the best one is selected based on discrete accuracy and near-optimality percentage.  
+
+The accuracy is determined by comparing the IBFS solution with the known optimal solution produced by the TORA system, which obtains the optimal solution using the Stepping Stone or MODI method (computationally expensive).
 </p>  
 
 <p align="center">  
