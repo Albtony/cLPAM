@@ -3,19 +3,47 @@
 #include "header.h"
 using namespace std;
 
-// vector<int> countAccuracyRanges(const vector<StrategyResult>& strategies) {
-//     vector<int> counts(10, 0); // Initialize 10 bins (0-10, 11-20, ..., 91-100)
+void exportToCSV(vector<StrategyResult> &strategyResults, const string &filename) {
+    ofstream file(filename);
+
+    sort(strategyResults.begin(), strategyResults.end(), [](const StrategyResult &a, const StrategyResult &b) {
+        return a.accuracy > b.accuracy; 
+    });
+
+    // Write the CSV header
+    file << "No,Penalty Calculation Strategy,Penalty Selection Strategy,Penalty TieBreaker Strategy,"
+         << "Cell Selection Strategy,Cell TieBreaker Strategy,Akurasi (Normal)\n";
+    int i = 1;
     
-//     for (const auto& strategy : strategies) {
-//         if (!strategy.isValid) continue; // Only count valid strategies
-//         if (strategy.accuracy >= 0 && strategy.accuracy <= 100) {
-//             int index = strategy.accuracy / 10; // Determine the bin index
-//             counts[index]++;
-//         }
-//     }
-    
-//     return counts;
-// }
+    // Write the data
+    for (const auto &strategyResult : strategyResults) {
+        stringstream ss(strategyResult.strategyCombination);
+        string pcStrat, psStrat, ptbStrat, csStrat, ctbStrat;
+
+        // Parse strategyCombination using a comma and space as delimiters
+        getline(ss, pcStrat, ',');
+        ss.ignore(1); 
+        getline(ss, psStrat, ',');
+        ss.ignore(1);
+        getline(ss, ptbStrat, ',');
+        ss.ignore(1);
+        getline(ss, csStrat, ',');
+        ss.ignore(1);
+        getline(ss, ctbStrat);
+
+        // Write the parsed fields and accuracy to the CSV
+        file << i++ << ","
+             << pcStrat << ","
+             << psStrat << ","
+             << ptbStrat << ","
+             << csStrat << ","
+             << ctbStrat << ","
+             << strategyResult.accuracy << "\n";
+    }
+
+    file.close();
+    cout << "CSV file exported to: " << filename << endl;
+}
 
 int main() {
     string inputDirectory = "./input";
@@ -30,6 +58,8 @@ int main() {
     }
 
     sort(files.begin(), files.end(), compareFileNames);
+
+    cout << "working on it...\n";
 
     for (int ptbStrat = static_cast<int>(PenaltyTieBreakerStrategy::AllPenalties); 
         ptbStrat <= static_cast<int>(PenaltyTieBreakerStrategy::MinTC); ++ptbStrat) {
@@ -83,30 +113,8 @@ int main() {
         }
     }
 
-    sort(strategyResults.begin(), strategyResults.end(), compareByAccuracy);
-    cout << "\nStrategy Performance Summary (Sorted by Accuracy):\n";
-    cout << setw(100) << left << "Strategy Name"  
-         << setw(5) << left << " "
-         << setw(10) << right << "Accuracy" 
-         << setw(5) << left << " "
-         << setw(10) << right << "errorAccuracy" << endl;  
-    for (const auto &strategyResult : strategyResults) {
-        if (!strategyResult.isValid) cout << "\033[31m";
-        else cout << "\033[37m";
-        cout << setw(100) << left << strategyResult.strategyCombination
-             << setw(5) << left << " "
-             << setw(10) << right << strategyResult.accuracy << "%"
-             << setw(5) << left << " "
-             << setw(10) << right << strategyResult.errorAccuracy << "%";
-        cout << "\033[0m" << endl;
-    }
-    cout << "Total combination(s) tried: " << strategyResults.size() << endl;
-
-    // vector<int> counts = countAccuracyRanges(strategyResults);
-    // for (int i = 0; i < counts.size(); ++i) {
-    //     cout << "Accuracy " << (i * 10) << "-" << ((i + 1) * 10 - 1) 
-    //          << ": " << counts[i] << " combinations" << endl;
-    // }
+    exportToCSV(strategyResults, "strategy_results.csv");
 
     return 0;
 }
+
