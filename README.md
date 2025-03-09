@@ -1,6 +1,6 @@
 ## Overview  
 <p align="justify">  
-cLPAM (Customized LPAM) is a modified version of the LPAM algorithm designed to find an initial basic feasible solution (IBFS) for <b>balanced</b> transportation problems. This project explores modifications to LPAM's set of rules to improve solution quality.  
+cLPAM (Customized LPAM) is a modified version of the LPAM algorithm designed to find an initial basic feasible solution (IBFS) for <b>balanced</b> transportation problems. This project explores modifications to LPAM's set of rules to improve solution near-optimality.  
 </p>  
 
 This project includes three programs, each serving a different purpose:
