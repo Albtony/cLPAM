@@ -20,9 +20,10 @@ class TransportationProblem {
     std::vector<int> supplies, demands;
     std::vector<int> initSupplies, initDemands;
     std::vector<RowCol> rows, cols;
-    std::vector<int> selectedPenalties;
-    std::vector<int> selectedRowPenaltiesIndex, selectedColPenaltiesIndex;
-    std::vector<int> selectedCell;
+    std::vector<int> selectedPenalties;                                         // from selectPenalties
+    std::vector<int> bestRowPenaltyIndices, bestColPenaltyIndices;              // from tieBreakPenalties
+    std::vector<int> selectedCells;                                             // from selectCells
+    int bestRowCellIndex, bestColCellIndex;                                     // from tieBreakCell 
     int numSources, numDestinations;
     int numRow, numCol;
     int optimalSolution;
