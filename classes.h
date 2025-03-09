@@ -5,34 +5,41 @@
 #include <fstream>
 #include <unordered_map>
 
-struct CostCell {
-    int cost = -1;     
+struct Cell {
     std::unordered_map<std::string, int> attributes;
     bool included = false; 
 };
 
+struct RowCol {
+    std::unordered_map<std::string, int> attributes;
+};
+
 class TransportationProblem {
-    std::vector<std::vector<CostCell>> costMatrix;
+    std::vector<std::vector<Cell>> costMatrix;
     std::vector<std::vector<int>> allocationMatrix;
     std::vector<int> supplies, demands;
     std::vector<int> initSupplies, initDemands;
-    std::vector<std::unordered_map<std::string, int>> rowAttributes, colAttributes;
+    std::vector<RowCol> rows, cols;
     std::vector<int> selectedPenalties;
     std::vector<int> selectedRowPenaltiesIndex, selectedColPenaltiesIndex;
     std::vector<int> selectedCell;
     int numSources, numDestinations;
-    int row, col;
+    int numRow, numCol;
     int optimalSolution;
 
     // initialization
     void initialize(ifstream &inputFile);
+    void calculateAttributes();
     void calculateTopBottom();
+    void calculateCostAllocation();
+    void calculateTotalCost();
+    void calculateSupremeCell();
 
     // computation
     void calculatePenalties(PenaltyStrategy::Calculation strategy);
     void selectPenalties(PenaltyStrategy::Selection strategy);
     void tieBreakPenalties(PenaltyStrategy::TieBreaker strategy);
-    void selectCell(CellStrategy::Selection strategy);
+    void selectCells(CellStrategy::Selection strategy);
     void tieBreakCell(CellStrategy::TieBreaker strategy);
     void allocateUnits();
     void updateConstraints();
