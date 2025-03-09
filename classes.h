@@ -22,7 +22,7 @@ class TransportationProblem {
     std::vector<RowCol> rows, cols;
     std::vector<int> selectedPenalties;                                         // from selectPenalties
     std::vector<int> bestRowPenaltyIndices, bestColPenaltyIndices;              // from tieBreakPenalties
-    std::vector<int> selectedCells;                                             // from selectCells
+    std::vector<Cell> selectedCells;                                            // from selectCells
     int bestRowCellIndex, bestColCellIndex;                                     // from tieBreakCell 
     int numSources, numDestinations;
     int numRow, numCol;
