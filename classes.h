@@ -1,3 +1,5 @@
+#pragma once
+
 #include <limits>
 #include <string>
 #include <cstdint>
@@ -9,7 +11,7 @@
 
 struct Cell {
     std::unordered_map<std::string, int> attributes;
-    bool included = false; 
+    bool included = true; 
 };
 
 struct RowCol {
