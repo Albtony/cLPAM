@@ -44,7 +44,7 @@ class TransportationProblem {
     void tieBreakCells(CellStrategy::TieBreaker strategy);
     void allocateUnits();
     void updateSupplyDemand();
-    void isSolved();
+    bool isSolved();
 
     // result processing
     void calculateTotalCost();
