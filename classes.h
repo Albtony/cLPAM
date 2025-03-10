@@ -41,9 +41,9 @@ class TransportationProblem {
     void selectPenalties(PenaltyStrategy::Selection strategy);
     void tieBreakPenalties(PenaltyStrategy::TieBreaker strategy);
     void selectCells(CellStrategy::Selection strategy);
-    void tieBreakCell(CellStrategy::TieBreaker strategy);
+    void tieBreakCells(CellStrategy::TieBreaker strategy);
     void allocateUnits();
-    void updateConstraints();
+    void updateSupplyDemand();
     void isSolved();
 
     // result processing
