@@ -3,6 +3,7 @@
 #include <cstdint>
 #include <vector>
 #include <fstream>
+#include <iostream>
 #include <unordered_map>
 
 struct Cell {
@@ -12,46 +13,6 @@ struct Cell {
 
 struct RowCol {
     std::unordered_map<std::string, int> attributes;
-};
-
-class TransportationProblem {
-    std::vector<std::vector<Cell>> costMatrix;
-    std::vector<std::vector<int>> allocationMatrix;
-    std::vector<int> supplies, demands;
-    std::vector<int> initSupplies, initDemands;
-    std::vector<RowCol> rows, cols;
-    std::vector<int> selectedPenalties;                                         // from selectPenalties
-    std::vector<int> bestRowPenaltyIndices, bestColPenaltyIndices;              // from tieBreakPenalties
-    std::vector<Cell> selectedCells;                                            // from selectCells
-    Cell bestCell;                                                              // from tieBreakCell 
-    int numSources, numDestinations;
-    int numRow, numCol;
-    int optimalSolution;
-    int totalCost;
-
-    // initialization
-    void initialize(ifstream &inputFile);
-    void calculateAttributes();
-    void calculateTopBottom();
-    void calculateCostAllocation();
-    void calculateTotalCost();
-    void calculateSupremeCell();
-
-    // computation
-    void calculatePenalties(PenaltyStrategy::Calculation strategy);
-    void selectPenalties(PenaltyStrategy::Selection strategy);
-    void tieBreakPenalties(PenaltyStrategy::TieBreaker strategy);
-    void selectCells(CellStrategy::Selection strategy);
-    void tieBreakCells(CellStrategy::TieBreaker strategy);
-    void allocateUnits();
-    void updateSupplyDemand();
-    bool isSolved();
-
-    // result processing
-    void calculateTotalCost();
-
-    // util
-    int calculatePenalty(const std::set<int>& sortedValues, PenaltyStrategy::Calculation strategy); 
 };
 
 namespace PenaltyStrategy {
@@ -137,4 +98,45 @@ struct StrategyResult {
     std::string strategyCombination; 
     double correctnessPercentage;  
     double nearOptimalityPercentage; 
+};
+
+class TransportationProblem {
+    public:
+        std::vector<std::vector<Cell>> costMatrix;
+        std::vector<std::vector<int>> allocationMatrix;
+        std::vector<int> supplies, demands;
+        std::vector<int> initSupplies, initDemands;
+        std::vector<RowCol> rows, cols;
+        std::vector<int> selectedPenalties;                                         // from selectPenalties
+        std::vector<int> bestRowPenaltyIndices, bestColPenaltyIndices;              // from tieBreakPenalties
+        std::vector<Cell> selectedCells;                                            // from selectCells
+        Cell bestCell;                                                              // from tieBreakCell 
+        int numSources, numDestinations;
+        int numRow, numCol;
+        int optimalSolution;
+        int totalCost;
+
+        // initialization
+        void initialize(std::ifstream &inputFile);
+        void calculateAttributes();
+        void calculateTopBottom();
+        void calculateCostAllocation();
+        void calculateTotalCost();
+        void calculateSupremeCell();
+
+        // computation
+        void calculatePenalties(PenaltyStrategy::Calculation strategy);
+        void selectPenalties(PenaltyStrategy::Selection strategy);
+        void tieBreakPenalties(PenaltyStrategy::TieBreaker strategy);
+        void selectCells(CellStrategy::Selection strategy);
+        void tieBreakCells(CellStrategy::TieBreaker strategy);
+        void allocateUnits();
+        void updateSupplyDemand();
+        bool isSolved();
+
+        // result processing
+        void calculateTotalCost();
+
+        // util
+        int calculatePenalty(const std::set<int>& sortedValues, PenaltyStrategy::Calculation strategy); 
 };
