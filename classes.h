@@ -27,6 +27,7 @@ class TransportationProblem {
     int numSources, numDestinations;
     int numRow, numCol;
     int optimalSolution;
+    int totalCost;
 
     // initialization
     void initialize(ifstream &inputFile);
@@ -48,7 +49,6 @@ class TransportationProblem {
 
     // result processing
     void calculateTotalCost();
-    void saveResult();
 
     // util
     int calculatePenalty(const std::set<int>& sortedValues, PenaltyStrategy::Calculation strategy); 
@@ -137,44 +137,4 @@ struct StrategyResult {
     std::string strategyCombination; 
     double correctnessPercentage;  
     double nearOptimalityPercentage; 
-};
-
-
-struct ComparatorValues {
-    int bestCost;
-    int minCost;
-    int maxCost;
-    int minDemand;
-    int maxDemand;
-    int minSupply;
-    int maxSupply;
-    int minSumTopBottom;
-    int maxSumTopBottom;
-    int minShippingAmount; 
-    int maxShippingAmount;
-    int minAllocationCost;
-    int maxAllocationCost;
-    int minSupplyDemandMult;
-    int maxSupplyDemandMult;
-    int maxSC;
-    int minSC;
-
-    ComparatorValues() 
-        : bestCost(-1),
-          minCost(std::numeric_limits<int>::max()), 
-          maxCost(std::numeric_limits<int>::min()), 
-          minDemand(std::numeric_limits<int>::max()), 
-          maxDemand(std::numeric_limits<int>::min()), 
-          minSupply(std::numeric_limits<int>::max()), 
-          maxSupply(std::numeric_limits<int>::min()),
-          minSumTopBottom(std::numeric_limits<int>::max()),
-          maxSumTopBottom(std::numeric_limits<int>::min()),
-          minShippingAmount(std::numeric_limits<int>::max()),
-          maxShippingAmount(std::numeric_limits<int>::min()),
-          minAllocationCost(std::numeric_limits<int>::max()),
-          maxAllocationCost(std::numeric_limits<int>::min()),
-          minSupplyDemandMult(std::numeric_limits<int>::max()),
-          maxSupplyDemandMult(std::numeric_limits<int>::min()),
-          minSC(std::numeric_limits<int>::max()),
-          maxSC(std::numeric_limits<int>::min()) {}
 };
