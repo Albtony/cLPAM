@@ -5,6 +5,7 @@
 #include <fstream>
 #include <iostream>
 #include <unordered_map>
+#include <set>
 
 struct Cell {
     std::unordered_map<std::string, int> attributes;
