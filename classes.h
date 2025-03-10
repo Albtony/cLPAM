@@ -121,7 +121,7 @@ class TransportationProblem {
         void calculateAttributes();
         void calculateTopBottom();
         void calculateCostAllocation();
-        void calculateTotalCost();
+        void calculateRowColTotalCost();
         void calculateSupremeCell();
 
         // computation
