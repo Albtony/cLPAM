@@ -9,9 +9,9 @@ int main() {
     vector<Result> results;
     PenaltyCalculationStrategy currPcStrat = PenaltyCalculationStrategy::TwoMin;
     PenaltySelectionStrategy currPsStrat = PenaltySelectionStrategy::MaxPenalty;
-    PenaltyTieBreakerStrategy currPtbStrat = PenaltyTieBreakerStrategy::MinTC;
+    PenaltyTieBreakerStrategy currPtbStrat = PenaltyTieBreakerStrategy::AllPenalties;
     CellSelectionStrategy currCsStrat = CellSelectionStrategy::MinCost;
-    CellTieBreakerStrategy currCtbStrat = CellTieBreakerStrategy::MinSTB;
+    CellTieBreakerStrategy currCtbStrat = CellTieBreakerStrategy::MinS;
     
 
     for (const auto &entry : fs::directory_iterator(inputDirectory)) {

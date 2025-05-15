@@ -3,7 +3,7 @@
 #include "header.h"
 
 int main() {
-    ifstream inputFile("./input/input18.txt");
+    ifstream inputFile("./input/input1.txt");
     
     if (!inputFile.is_open()) {
         cerr << "Error opening file!" << endl;
@@ -22,11 +22,12 @@ int main() {
     vector<int> initDemand;
     vector<int> rowPenalties;
     vector<int> colPenalties;
+    vector<Result> results;
     PenaltyCalculationStrategy currPcStrat = PenaltyCalculationStrategy::TwoMin;
     PenaltySelectionStrategy currPsStrat = PenaltySelectionStrategy::MaxPenalty;
     PenaltyTieBreakerStrategy currPtbStrat = PenaltyTieBreakerStrategy::AllPenalties;
     CellSelectionStrategy currCsStrat = CellSelectionStrategy::MinCost;
-    CellTieBreakerStrategy currCtbStrat = CellTieBreakerStrategy::MinSTB;
+    CellTieBreakerStrategy currCtbStrat = CellTieBreakerStrategy::MinS;
 
     inputVar(inputFile, numSources, numDestinations, costMatrix, supply, demand, optimalSolution);
     inputFile.close();
