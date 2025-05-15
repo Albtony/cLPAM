@@ -1,0 +1,1 @@
+    printer.printCostMatrixAttribute("cost");

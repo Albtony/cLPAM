@@ -121,7 +121,7 @@ class TransportationProblem {
 
         // initialization
         void initialize(std::ifstream &inputFile);
-        void calculateAttributes();
+        void updateAttributes();
         void calculateTopBottom();
         void calculateCostAllocation();
         void calculateRowColTotalCost();
